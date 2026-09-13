@@ -1,0 +1,2344 @@
+0x104954000       16384  MobileSafari
+                                /private/var/containers/Bundle/Application/8A6591E2-3E4B-4104-AD57-AD8C4F73560E/MobileSafari.app/MobileSafari
+0x1049f0000       32768  systemhook.dylib
+                                /cores/systemhook.dylib
+0x104a18000       32768  TweakLoader.dylib
+                                /private/preboot/BF9DB23529BDA1815A95AD6B18C3C5E0ED640C513374D443340F3E81F2F0E16535BE82A6CD1DA0ED745D2EFBE2321D2A/jb-vphone/procursus/usr/lib/TweakLoader.dylib
+0x19c02c000      332928  libobjc.A.dylib
+                                /usr/lib/libobjc.A.dylib
+0x19c07e000      205754  libdyld.dylib
+                                /usr/lib/system/libdyld.dylib
+0x19c0b1000      676992  dyld
+                                /usr/lib/dyld
+0x19c157000      107936  libc++abi.dylib
+                                /usr/lib/libc++abi.dylib
+0x19c172000     5870944  libswiftCore.dylib
+                                /usr/lib/swift/libswiftCore.dylib
+0x19c70c000    15244320  Foundation
+                                /System/Library/Frameworks/Foundation.framework/Foundation
+0x19d596000      567590  libswift_Concurrency.dylib
+                                /usr/lib/swift/libswift_Concurrency.dylib
+0x19d621000     2537696  CoreServices
+                                /System/Library/Frameworks/CoreServices.framework/CoreServices
+0x19d88d000     1742996  libsqlite3.dylib
+                                /usr/lib/libsqlite3.dylib
+0x19da37000    24990592  Network
+                                /System/Library/Frameworks/Network.framework/Network
+0x19f20d000     2546240  CoreTelephony
+                                /System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+0x19f47b000     5884352  CoreFoundation
+                                /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+0x19fa18000     4516096  CoreHandwriting
+                                /System/Library/PrivateFrameworks/CoreHandwriting.framework/CoreHandwriting
+0x19fe67000     4132544  QuartzCore
+                                /System/Library/Frameworks/QuartzCore.framework/QuartzCore
+0x1a0258000     7534912  CoreGraphics
+                                /System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+0x1a0988000     2095104  CoreText
+                                /System/Library/Frameworks/CoreText.framework/CoreText
+0x1a0b88000     1481984  ExtensionFoundation
+                                /System/Library/Frameworks/ExtensionFoundation.framework/ExtensionFoundation
+0x1a0cf2000     6009088  BiomeStreams
+                                /System/Library/PrivateFrameworks/BiomeStreams.framework/BiomeStreams
+0x1a12ae000     8860992  BiomeLibrary
+                                /System/Library/PrivateFrameworks/BiomeLibrary.framework/BiomeLibrary
+0x1a1b22000     3741408  CoreData
+                                /System/Library/Frameworks/CoreData.framework/CoreData
+0x1a1eb4000      912416  ContactsFoundation
+                                /System/Library/PrivateFrameworks/ContactsFoundation.framework/ContactsFoundation
+0x1a1f93000      890592  AppProtection
+                                /System/Library/PrivateFrameworks/AppProtection.framework/AppProtection
+0x1a206d000     2889696  Metal
+                                /System/Library/Frameworks/Metal.framework/Metal
+0x1a232f000     5622400  ImageIO
+                                /System/Library/Frameworks/ImageIO.framework/ImageIO
+0x1a288c000      260448  libAccessibility.dylib
+                                /usr/lib/libAccessibility.dylib
+0x1a28cc000      748928  BackBoardServices
+                                /System/Library/PrivateFrameworks/BackBoardServices.framework/BackBoardServices
+0x1a2983000     1911552  TextInput
+                                /System/Library/PrivateFrameworks/TextInput.framework/TextInput
+0x1a2ba0000    32201120  GeoServices
+                                /System/Library/PrivateFrameworks/GeoServices.framework/GeoServices
+0x1a4a56000     4228160  CloudKit
+                                /System/Library/Frameworks/CloudKit.framework/CloudKit
+0x1a4e5f000     2022208  Security
+                                /System/Library/Frameworks/Security.framework/Security
+0x1a504d000      451416  libusrtcp.dylib
+                                /usr/lib/libusrtcp.dylib
+0x1a50bc000    39073344  UIKitCore
+                                /System/Library/PrivateFrameworks/UIKitCore.framework/UIKitCore
+0x1a7600000     1562496  DesignLibrary
+                                /System/Library/PrivateFrameworks/DesignLibrary.framework/DesignLibrary
+0x1a777e000     1436640  Preferences
+                                /System/Library/PrivateFrameworks/Preferences.framework/Preferences
+0x1a78dd000     2044576  AccessibilityUtilities
+                                /System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities
+0x1a7ad1000     1391072  ShareSheet
+                                /System/Library/PrivateFrameworks/ShareSheet.framework/ShareSheet
+0x1a7c25000     3455008  AVKit
+                                /System/Library/Frameworks/AVKit.framework/AVKit
+0x1a7f71000     5856736  MobileSafari
+                                /System/Library/PrivateFrameworks/MobileSafari.framework/MobileSafari
+0x1a8507000    19446176  SwiftUI
+                                /System/Library/Frameworks/SwiftUI.framework/SwiftUI
+0x1a97e0000    15714240  SwiftUICore
+                                /System/Library/Frameworks/SwiftUICore.framework/SwiftUICore
+0x1aa6dd000     1261728  CoreUI
+                                /System/Library/PrivateFrameworks/CoreUI.framework/CoreUI
+0x1aa812000      921888  GenerativeModels
+                                /System/Library/PrivateFrameworks/GenerativeModels.framework/GenerativeModels
+0x1aa8f4000      473216  GenerativeModelsFoundation
+                                /System/Library/PrivateFrameworks/GenerativeModelsFoundation.framework/GenerativeModelsFoundation
+0x1aa968000     2747200  ModelCatalog
+                                /System/Library/PrivateFrameworks/ModelCatalog.framework/ModelCatalog
+0x1aac07000      298256  libsystem_malloc.dylib
+                                /usr/lib/system/libsystem_malloc.dylib
+0x1aac50000      572830  libswift_StringProcessing.dylib
+                                /usr/lib/swift/libswift_StringProcessing.dylib
+0x1aacdc000       80048  RuntimeInternal
+                                /System/Library/PrivateFrameworks/RuntimeInternal.framework/RuntimeInternal
+0x1aad64000      801792  Gestures
+                                /System/Library/PrivateFrameworks/Gestures.framework/Gestures
+0x1aae28000     1484256  UIFoundation
+                                /System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+0x1aaf93000      411232  RunningBoardServices
+                                /System/Library/PrivateFrameworks/RunningBoardServices.framework/RunningBoardServices
+0x1aaff8000      521728  libsystem_c.dylib
+                                /usr/lib/system/libsystem_c.dylib
+0x1ab078000     6445248  Intents
+                                /System/Library/Frameworks/Intents.framework/Intents
+0x1ab69e000     1548256  LinkMetadata
+                                /System/Library/PrivateFrameworks/LinkMetadata.framework/LinkMetadata
+0x1ab818000     5558816  AppIntents
+                                /System/Library/Frameworks/AppIntents.framework/AppIntents
+0x1abd66000     3889184  AudioToolboxCore
+                                /System/Library/PrivateFrameworks/AudioToolboxCore.framework/AudioToolboxCore
+0x1ac11c000     5476832  VideoToolbox
+                                /System/Library/Frameworks/VideoToolbox.framework/VideoToolbox
+0x1ac656000      952192  BaseBoard
+                                /System/Library/PrivateFrameworks/BaseBoard.framework/BaseBoard
+0x1ac73f000     1414784  TextInputUI
+                                /System/Library/PrivateFrameworks/TextInputUI.framework/TextInputUI
+0x1ad97c000     1587712  TextComposer
+                                /System/Library/PrivateFrameworks/TextComposer.framework/TextComposer
+0x1adb00000     2898880  AssistantServices
+                                /System/Library/PrivateFrameworks/AssistantServices.framework/AssistantServices
+0x1addc4000     1100416  AXCoreUtilities
+                                /System/Library/PrivateFrameworks/AXCoreUtilities.framework/AXCoreUtilities
+0x1aded1000      742688  SpringBoardServices
+                                /System/Library/PrivateFrameworks/SpringBoardServices.framework/SpringBoardServices
+0x1adf87000     2313248  CoreDuet
+                                /System/Library/PrivateFrameworks/CoreDuet.framework/CoreDuet
+0x1ae1bc000     6449024  HealthKit
+                                /System/Library/Frameworks/HealthKit.framework/HealthKit
+0x1ae7e3000     1516512  CoreUtils
+                                /System/Library/PrivateFrameworks/CoreUtils.framework/CoreUtils
+0x1ae956000     2695296  WidgetKit
+                                /System/Library/Frameworks/WidgetKit.framework/WidgetKit
+0x1aebe9000      592508  libc++.1.dylib
+                                /usr/lib/libc++.1.dylib
+0x1aec7a000     6165120  AppleMediaServicesKitInternal
+                                /System/Library/PrivateFrameworks/AppleMediaServicesKitInternal.framework/AppleMediaServicesKitInternal
+0x1af25c000    10149216  AppleMediaServices
+                                /System/Library/PrivateFrameworks/AppleMediaServices.framework/AppleMediaServices
+0x1afc0a000      953664  libquic.dylib
+                                /usr/lib/libquic.dylib
+0x1afcf3000     2266464  AuthKit
+                                /System/Library/PrivateFrameworks/AuthKit.framework/AuthKit
+0x1aff1d000       91809  libswiftDispatch.dylib
+                                /usr/lib/swift/libswiftDispatch.dylib
+0x1aff9c000     8190592  IntelligencePlatformLibrary
+                                /System/Library/PrivateFrameworks/IntelligencePlatformLibrary.framework/IntelligencePlatformLibrary
+0x1b076c000    14990368  Espresso
+                                /System/Library/PrivateFrameworks/Espresso.framework/Espresso
+0x1b15b8000     8530912  CoreML
+                                /System/Library/Frameworks/CoreML.framework/CoreML
+0x1b1ddb000     2995408  libicucore.A.dylib
+                                /usr/lib/libicucore.A.dylib
+0x1b20b7000     2727904  Contacts
+                                /System/Library/Frameworks/Contacts.framework/Contacts
+0x1b2351000     2413536  TelephonyUtilities
+                                /System/Library/PrivateFrameworks/TelephonyUtilities.framework/TelephonyUtilities
+0x1b259f000      469152  FTServices
+                                /System/Library/PrivateFrameworks/FTServices.framework/FTServices
+0x1b2612000      495744  IMFoundation
+                                /System/Library/PrivateFrameworks/IMFoundation.framework/IMFoundation
+0x1b268c000     2190368  IDS
+                                /System/Library/PrivateFrameworks/IDS.framework/IDS
+0x1b28a3000     1188480  TextAnimationSupport
+                                /System/Library/PrivateFrameworks/TextAnimationSupport.framework/TextAnimationSupport
+0x1b29c6000     1584032  RenderBox
+                                /System/Library/PrivateFrameworks/RenderBox.framework/RenderBox
+0x1b2b49000      284576  AppSupport
+                                /System/Library/PrivateFrameworks/AppSupport.framework/AppSupport
+0x1b2b8f000     1362368  ChronoServices
+                                /System/Library/PrivateFrameworks/ChronoServices.framework/ChronoServices
+0x1b2cdc000      236992  UIKitServices
+                                /System/Library/PrivateFrameworks/UIKitServices.framework/UIKitServices
+0x1b2d16000      214852  CoreServicesInternal
+                                /System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal
+0x1b2d4b000     2582656  AVFCore
+                                /System/Library/PrivateFrameworks/AVFCore.framework/AVFCore
+0x1b2fc2000    13289760  MediaToolbox
+                                /System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+0x1b3c6f000     1915200  CoreMedia
+                                /System/Library/Frameworks/CoreMedia.framework/CoreMedia
+0x1b3e43000      830400  IOKit
+                                /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+0x1b3f0e000      333408  libxpc.dylib
+                                /usr/lib/system/libxpc.dylib
+0x1b3f60000     1299887  CollectionsInternal
+                                /System/Library/PrivateFrameworks/CollectionsInternal.framework/CollectionsInternal
+0x1b409e000     1484864  SwiftData
+                                /System/Library/Frameworks/SwiftData.framework/SwiftData
+0x1b4209000      944640  TipKitCore
+                                /System/Library/PrivateFrameworks/TipKitCore.framework/TipKitCore
+0x1b42f0000     1736608  LinkServices
+                                /System/Library/PrivateFrameworks/LinkServices.framework/LinkServices
+0x1b4513000     1397792  CoreSpotlight
+                                /System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlight
+0x1b4669000      311044  libswiftXPC.dylib
+                                /usr/lib/swift/libswiftXPC.dylib
+0x1b46b5000     1670816  ModelManagerServices
+                                /System/Library/PrivateFrameworks/ModelManagerServices.framework/ModelManagerServices
+0x1b484d000      895168  MobileAsset
+                                /System/Library/PrivateFrameworks/MobileAsset.framework/MobileAsset
+0x1b4928000     3868544  CFNetwork
+                                /System/Library/Frameworks/CFNetwork.framework/CFNetwork
+0x1b4cd9000    32291136  JavaScriptCore
+                                /System/Library/Frameworks/JavaScriptCore.framework/JavaScriptCore
+0x1b6c04000     5611616  ContactsUI
+                                /System/Library/Frameworks/ContactsUI.framework/ContactsUI
+0x1b715f000      996135  Combine
+                                /System/Library/Frameworks/Combine.framework/Combine
+0x1b7253000      246016  UserManagement
+                                /System/Library/PrivateFrameworks/UserManagement.framework/UserManagement
+0x1b7290000       11888  libsystem_coreservices.dylib
+                                /usr/lib/system/libsystem_coreservices.dylib
+0x1b7293000      171224  libsystem_info.dylib
+                                /usr/lib/system/libsystem_info.dylib
+0x1b7499000      237248  RemoteTextInput
+                                /System/Library/PrivateFrameworks/RemoteTextInput.framework/RemoteTextInput
+0x1b7a38000      544096  BoardServices
+                                /System/Library/PrivateFrameworks/BoardServices.framework/BoardServices
+0x1b7abd000     1598288  ColorSync
+                                /System/Library/Frameworks/ColorSync.framework/ColorSync
+0x1b85b2000     4551488  CoreMotion
+                                /System/Library/Frameworks/CoreMotion.framework/CoreMotion
+0x1b8a0a000     2912960  CoreLocation
+                                /System/Library/Frameworks/CoreLocation.framework/CoreLocation
+0x1b8cd2000     4345248  HomeKit
+                                /System/Library/Frameworks/HomeKit.framework/HomeKit
+0x1b90f7000    10256288  PhotoLibraryServices
+                                /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices
+0x1b9abf000     4093952  Photos
+                                /System/Library/Frameworks/Photos.framework/Photos
+0x1b9ea7000     5081632  CoreImage
+                                /System/Library/Frameworks/CoreImage.framework/CoreImage
+0x1ba380000      414528  CoreVideo
+                                /System/Library/Frameworks/CoreVideo.framework/CoreVideo
+0x1ba3e6000     1159808  CoreNLP
+                                /System/Library/PrivateFrameworks/CoreNLP.framework/CoreNLP
+0x1ba502000     2011232  Montreal
+                                /System/Library/PrivateFrameworks/Montreal.framework/Montreal
+0x1ba6ee000      480096  NaturalLanguage
+                                /System/Library/Frameworks/NaturalLanguage.framework/NaturalLanguage
+0x1ba764000      203264  BrowserEngineKit
+                                /System/Library/Frameworks/BrowserEngineKit.framework/BrowserEngineKit
+0x1ba796000    24692864  WebKit
+                                /System/Library/Frameworks/WebKit.framework/WebKit
+0x1bbf74000    60912192  WebCore
+                                /System/Library/PrivateFrameworks/WebCore.framework/WebCore
+0x1bfc4d000     5265280  MediaPlayer
+                                /System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+0x1c0153000     4296928  MediaRemote
+                                /System/Library/PrivateFrameworks/MediaRemote.framework/MediaRemote
+0x1c056d000      988448  ActivityKit
+                                /System/Library/Frameworks/ActivityKit.framework/ActivityKit
+0x1c065f000      184384  BaseBoardUI
+                                /System/Library/PrivateFrameworks/BaseBoardUI.framework/BaseBoardUI
+0x1c06e7000      929920  FrontBoardServices
+                                /System/Library/PrivateFrameworks/FrontBoardServices.framework/FrontBoardServices
+0x1c07cb000     3522624  MapKit
+                                /System/Library/Frameworks/MapKit.framework/MapKit
+0x1c0b28000     4264640  ContactsUICore
+                                /System/Library/PrivateFrameworks/ContactsUICore.framework/ContactsUICore
+0x1c0f3a000      646528  TipKit
+                                /System/Library/Frameworks/TipKit.framework/TipKit
+0x1c3305000     1914176  CMPhoto
+                                /System/Library/PrivateFrameworks/CMPhoto.framework/CMPhoto
+0x1c34d9000     6807072  Vision
+                                /System/Library/Frameworks/Vision.framework/Vision
+0x1c3b57000    23528232  ANECompiler
+                                /System/Library/PrivateFrameworks/ANECompiler.framework/ANECompiler
+0x1c51c8000      634208  IconServices
+                                /System/Library/PrivateFrameworks/IconServices.framework/IconServices
+0x1c5263000      331424  LocalAuthentication
+                                /System/Library/Frameworks/LocalAuthentication.framework/LocalAuthentication
+0x1c52b4000      119712  libswiftos.dylib
+                                /usr/lib/swift/libswiftos.dylib
+0x1c52d2000      677216  CryptoKit
+                                /System/Library/Frameworks/CryptoKit.framework/CryptoKit
+0x1c5378000     1465728  ManagedConfiguration
+                                /System/Library/PrivateFrameworks/ManagedConfiguration.framework/ManagedConfiguration
+0x1c54de000      132032  libsystem_trace.dylib
+                                /usr/lib/system/libsystem_trace.dylib
+0x1c54ff000     6838560  IDSFoundation
+                                /System/Library/PrivateFrameworks/IDSFoundation.framework/IDSFoundation
+0x1c5b85000      572256  ProactiveSupport
+                                /System/Library/PrivateFrameworks/ProactiveSupport.framework/ProactiveSupport
+0x1c5c11000      584224  PersonalizationPortrait
+                                /System/Library/PrivateFrameworks/PersonalizationPortrait.framework/PersonalizationPortrait
+0x1c5ca0000     2023776  EventKit
+                                /System/Library/Frameworks/EventKit.framework/EventKit
+0x1c5e8f000     4322848  IMCore
+                                /System/Library/PrivateFrameworks/IMCore.framework/IMCore
+0x1c62af000     4602592  IMSharedUtilities
+                                /System/Library/PrivateFrameworks/IMSharedUtilities.framework/IMSharedUtilities
+0x1c6713000      813440  FrontBoard
+                                /System/Library/PrivateFrameworks/FrontBoard.framework/FrontBoard
+0x1c6ace000      612032  GenerativeFunctionsFoundation
+                                /System/Library/PrivateFrameworks/GenerativeFunctionsFoundation.framework/GenerativeFunctionsFoundation
+0x1c6b64000      417952  GenerativeFunctionsInstrumentation
+                                /System/Library/PrivateFrameworks/GenerativeFunctionsInstrumentation.framework/GenerativeFunctionsInstrumentation
+0x1c6bcb000     1885408  TokenGenerationCore
+                                /System/Library/PrivateFrameworks/TokenGenerationCore.framework/TokenGenerationCore
+0x1c6d98000      872608  libboringssl.dylib
+                                /usr/lib/libboringssl.dylib
+0x1c6e6e000      115288  libsystem_networkextension.dylib
+                                /usr/lib/system/libsystem_networkextension.dylib
+0x1c6e8b000      619456  libTelephonyUtilDynamic.dylib
+                                /usr/lib/libTelephonyUtilDynamic.dylib
+0x1c6f23000     1752896  AVFCapture
+                                /System/Library/PrivateFrameworks/AVFCapture.framework/AVFCapture
+0x1c70cf000     3167648  TextToSpeech
+                                /System/Library/PrivateFrameworks/TextToSpeech.framework/TextToSpeech
+0x1c73d5000      337664  CoreDuetContext
+                                /System/Library/PrivateFrameworks/CoreDuetContext.framework/CoreDuetContext
+0x1c7428000     4578432  Sharing
+                                /System/Library/PrivateFrameworks/Sharing.framework/Sharing
+0x1c7886000     1119680  SpringBoardUIServices
+                                /System/Library/PrivateFrameworks/SpringBoardUIServices.framework/SpringBoardUIServices
+0x1c7998000      705440  UIAccessibility
+                                /System/Library/PrivateFrameworks/UIAccessibility.framework/UIAccessibility
+0x1c7aa8000    15194208  SiriInstrumentation
+                                /System/Library/PrivateFrameworks/SiriInstrumentation.framework/SiriInstrumentation
+0x1c8926000     1225856  PhotoLibraryServicesCore
+                                /System/Library/PrivateFrameworks/PhotoLibraryServicesCore.framework/PhotoLibraryServicesCore
+0x1c8a52000     1839392  FileProvider
+                                /System/Library/Frameworks/FileProvider.framework/FileProvider
+0x1c8c14000       51320  MallocStackLogging
+                                /System/Library/PrivateFrameworks/MallocStackLogging.framework/MallocStackLogging
+0x1c8f82000     5863136  JetEngine
+                                /System/Library/PrivateFrameworks/JetEngine.framework/JetEngine
+0x1c951a000      526624  AVRouting
+                                /System/Library/Frameworks/AVRouting.framework/AVRouting
+0x1c959b000      180640  _LocationEssentials
+                                /System/Library/Frameworks/_LocationEssentials.framework/_LocationEssentials
+0x1c95c8000      851648  GeoAnalytics
+                                /System/Library/PrivateFrameworks/GeoAnalytics.framework/GeoAnalytics
+0x1c9698000       21344  GeoServicesCore
+                                /System/Library/PrivateFrameworks/GeoServicesCore.framework/GeoServicesCore
+0x1c969e000     1759392  PromptKit
+                                /System/Library/PrivateFrameworks/PromptKit.framework/PromptKit
+0x1c984c000     2320960  TokenGeneration
+                                /System/Library/PrivateFrameworks/TokenGeneration.framework/TokenGeneration
+0x1ca05b000     1049792  CoreSceneUnderstanding
+                                /System/Library/PrivateFrameworks/CoreSceneUnderstanding.framework/CoreSceneUnderstanding
+0x1ca15c000      336864  BiomeFoundation
+                                /System/Library/PrivateFrameworks/BiomeFoundation.framework/BiomeFoundation
+0x1ca1af000       85088  UniformTypeIdentifiers
+                                /System/Library/Frameworks/UniformTypeIdentifiers.framework/UniformTypeIdentifiers
+0x1ca3e7000      525728  Accounts
+                                /System/Library/Frameworks/Accounts.framework/Accounts
+0x1ca468000     1120352  InternalSwiftProtobuf
+                                /System/Library/PrivateFrameworks/InternalSwiftProtobuf.framework/InternalSwiftProtobuf
+0x1ca57a000     2557856  Speech
+                                /System/Library/Frameworks/Speech.framework/Speech
+0x1ca7eb000       75168  BackgroundTasks
+                                /System/Library/Frameworks/BackgroundTasks.framework/BackgroundTasks
+0x1ca7fe000      555040  MediaServices
+                                /System/Library/PrivateFrameworks/MediaServices.framework/MediaServices
+0x1ca886000      441920  AudioSession
+                                /System/Library/PrivateFrameworks/AudioSession.framework/AudioSession
+0x1ca8f2000     9410784  CMCapture
+                                /System/Library/PrivateFrameworks/CMCapture.framework/CMCapture
+0x1cb1ec000      429120  AppleNeuralEngine
+                                /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/AppleNeuralEngine
+0x1cb255000      560592  SystemConfiguration
+                                /System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+0x1cb2de000    11664960  PassKitCore
+                                /System/Library/PrivateFrameworks/PassKitCore.framework/PassKitCore
+0x1cbdfe000     5101696  Coherence
+                                /System/Library/PrivateFrameworks/Coherence.framework/Coherence
+0x1cc2dc000      829088  CloudDocs
+                                /System/Library/PrivateFrameworks/CloudDocs.framework/CloudDocs
+0x1cc3a7000     1240288  AXMediaUtilities
+                                /System/Library/PrivateFrameworks/AXMediaUtilities.framework/AXMediaUtilities
+0x1cc53b000      441856  OSAnalytics
+                                /System/Library/PrivateFrameworks/OSAnalytics.framework/OSAnalytics
+0x1cc5a7000      195232  CoreAnalytics
+                                /System/Library/PrivateFrameworks/CoreAnalytics.framework/CoreAnalytics
+0x1cc614000     2100384  LanguageModeling
+                                /System/Library/PrivateFrameworks/LanguageModeling.framework/LanguageModeling
+0x1cc815000       33888  ReflectionInternal
+                                /System/Library/PrivateFrameworks/ReflectionInternal.framework/ReflectionInternal
+0x1cc81e000      491840  NetworkServiceProxy
+                                /System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy
+0x1cc897000      205408  _AppIntents_UIKit
+                                /System/Library/Frameworks/_AppIntents_UIKit.framework/_AppIntents_UIKit
+0x1cc8ca000     1719936  LinkPresentation
+                                /System/Library/Frameworks/LinkPresentation.framework/LinkPresentation
+0x1cca6e000      162208  AppProtectionUI
+                                /System/Library/PrivateFrameworks/AppProtectionUI.framework/AppProtectionUI
+0x1cca96000     1068544  SensitiveContentAnalysis
+                                /System/Library/Frameworks/SensitiveContentAnalysis.framework/SensitiveContentAnalysis
+0x1ccb9b000     3706528  CopresenceCore
+                                /System/Library/PrivateFrameworks/CopresenceCore.framework/CopresenceCore
+0x1ccf24000     1990016  GroupActivities
+                                /System/Library/Frameworks/GroupActivities.framework/GroupActivities
+0x1cd10a000      530240  EmojiFoundation
+                                /System/Library/PrivateFrameworks/EmojiFoundation.framework/EmojiFoundation
+0x1cd18c000    16716128  VFX
+                                /System/Library/PrivateFrameworks/VFX.framework/VFX
+0x1ce17e000      756640  FeedbackService
+                                /System/Library/PrivateFrameworks/FeedbackService.framework/FeedbackService
+0x1ce237000      116896  IOSurface
+                                /System/Library/Frameworks/IOSurface.framework/IOSurface
+0x1ce254000      579648  libMobileGestalt.dylib
+                                /usr/lib/libMobileGestalt.dylib
+0x1ce2e2000       87648  MediaAccessibility
+                                /System/Library/Frameworks/MediaAccessibility.framework/MediaAccessibility
+0x1ce2f8000     2034592  LocalAuthenticationCore
+                                /System/Library/PrivateFrameworks/LocalAuthenticationCore.framework/LocalAuthenticationCore
+0x1ce558000    13585984  Message
+                                /System/Library/PrivateFrameworks/Message.framework/Message
+0x1cf24d000     1131744  CoreParsec
+                                /System/Library/PrivateFrameworks/CoreParsec.framework/CoreParsec
+0x1cf362000     4858464  SearchFoundation
+                                /System/Library/PrivateFrameworks/SearchFoundation.framework/SearchFoundation
+0x1cf805000      460064  IconRendering
+                                /System/Library/PrivateFrameworks/IconRendering.framework/IconRendering
+0x1cf876000      367328  DMCUtilities
+                                /System/Library/PrivateFrameworks/DMCUtilities.framework/DMCUtilities
+0x1cf8d0000      103372  TCC
+                                /System/Library/PrivateFrameworks/TCC.framework/TCC
+0x1cf8ea000     1139200  InstalledContentLibrary
+                                /System/Library/PrivateFrameworks/InstalledContentLibrary.framework/InstalledContentLibrary
+0x1cfa01000     2828416  MediaExperience
+                                /System/Library/PrivateFrameworks/MediaExperience.framework/MediaExperience
+0x1cfcb4000      484352  Dendrite
+                                /System/Library/PrivateFrameworks/Dendrite.framework/Dendrite
+0x1cfd2b000     2040576  SiriTTSService
+                                /System/Library/PrivateFrameworks/SiriTTSService.framework/SiriTTSService
+0x1cff1e000     1773472  AuthenticationServices
+                                /System/Library/Frameworks/AuthenticationServices.framework/AuthenticationServices
+0x1d00cf000     1876800  VoiceShortcutClient
+                                /System/Library/PrivateFrameworks/VoiceShortcutClient.framework/VoiceShortcutClient
+0x1d0418000     1578848  GRDBInternal
+                                /System/Library/PrivateFrameworks/GRDBInternal.framework/GRDBInternal
+0x1d059a000      620000  ProtectedCloudStorage
+                                /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/ProtectedCloudStorage
+0x1d0632000      109280  CommonUtilities
+                                /System/Library/PrivateFrameworks/CommonUtilities.framework/CommonUtilities
+0x1d064d000      192320  ApplePushService
+                                /System/Library/PrivateFrameworks/ApplePushService.framework/ApplePushService
+0x1d067c000      136032  BackgroundSystemTasks
+                                /System/Library/PrivateFrameworks/BackgroundSystemTasks.framework/BackgroundSystemTasks
+0x1d069e000      436032  MetadataUtilities
+                                /System/Library/PrivateFrameworks/MetadataUtilities.framework/MetadataUtilities
+0x1d0709000     2399296  StoreKit
+                                /System/Library/Frameworks/StoreKit.framework/StoreKit
+0x1d0953000      144448  Accessibility
+                                /System/Library/Frameworks/Accessibility.framework/Accessibility
+0x1d0977000     1083264  libnwswifttls.dylib
+                                /usr/lib/libnwswifttls.dylib
+0x1d0a80000    14881856  VectorKit
+                                /System/Library/PrivateFrameworks/VectorKit.framework/VectorKit
+0x1d18b2000     1277120  PhotosFormats
+                                /System/Library/PrivateFrameworks/PhotosFormats.framework/PhotosFormats
+0x1d240b000     2495296  TextRecognition
+                                /System/Library/PrivateFrameworks/TextRecognition.framework/TextRecognition
+0x1d266d000     1486528  VisionKitCore
+                                /System/Library/PrivateFrameworks/VisionKitCore.framework/VisionKitCore
+0x1d27d8000     3749792  iTunesCloud
+                                /System/Library/PrivateFrameworks/iTunesCloud.framework/iTunesCloud
+0x1d2b6c000      673664  CallKit
+                                /System/Library/Frameworks/CallKit.framework/CallKit
+0x1d2c11000      500608  TelephonyUI
+                                /System/Library/PrivateFrameworks/TelephonyUI.framework/TelephonyUI
+0x1d2c8c000      283040  AttributeGraph
+                                /System/Library/PrivateFrameworks/AttributeGraph.framework/AttributeGraph
+0x1d3323000      453728  OnBoardingKit
+                                /System/Library/PrivateFrameworks/OnBoardingKit.framework/OnBoardingKit
+0x1d3392000    13444832  EmbeddedAcousticRecognition
+                                /System/Library/PrivateFrameworks/EmbeddedAcousticRecognition.framework/EmbeddedAcousticRecognition
+0x1d4065000     1107776  Lexicon
+                                /System/Library/PrivateFrameworks/Lexicon.framework/Lexicon
+0x1d4174000      934784  Sage
+                                /System/Library/PrivateFrameworks/Sage.framework/Sage
+0x1d4259000     1513440  PeopleSuggester
+                                /System/Library/PrivateFrameworks/PeopleSuggester.framework/PeopleSuggester
+0x1d47cf000     6263104  NewsCore
+                                /System/Library/PrivateFrameworks/NewsCore.framework/NewsCore
+0x1d4f48000     2877024  libFontParser.dylib
+                                /System/Library/PrivateFrameworks/FontServices.framework/libFontParser.dylib
+0x1d5207000      598208  CascadeSets
+                                /System/Library/PrivateFrameworks/CascadeSets.framework/CascadeSets
+0x1d529a000      379360  DuetActivityScheduler
+                                /System/Library/PrivateFrameworks/DuetActivityScheduler.framework/DuetActivityScheduler
+0x1d536c000      973728  Rapport
+                                /System/Library/PrivateFrameworks/Rapport.framework/Rapport
+0x1d545a000     1404288  AppleAccount
+                                /System/Library/PrivateFrameworks/AppleAccount.framework/AppleAccount
+0x1d55b1000     1195872  FamilyCircle
+                                /System/Library/PrivateFrameworks/FamilyCircle.framework/FamilyCircle
+0x1d56d5000     8352288  FinanceKit
+                                /System/Library/Frameworks/FinanceKit.framework/FinanceKit
+0x1d5ecd000     1686432  _JetEngine_SwiftUI
+                                /System/Library/PrivateFrameworks/_JetEngine_SwiftUI.framework/_JetEngine_SwiftUI
+0x1d6069000     3494400  IMDPersistence
+                                /System/Library/PrivateFrameworks/IMDPersistence.framework/IMDPersistence
+0x1d63bf000      806284  libswiftAccelerate.dylib
+                                /usr/lib/swift/libswiftAccelerate.dylib
+0x1d6484000      436192  CameraEditKit
+                                /System/Library/PrivateFrameworks/CameraEditKit.framework/CameraEditKit
+0x1d64ef000      769152  AddressBookLegacy
+                                /System/Library/PrivateFrameworks/AddressBookLegacy.framework/AddressBookLegacy
+0x1d65ab000     1457664  FindMyLocate
+                                /System/Library/PrivateFrameworks/FindMyLocate.framework/FindMyLocate
+0x1d670f000      529760  ContactsAutocompleteUI
+                                /System/Library/PrivateFrameworks/ContactsAutocompleteUI.framework/ContactsAutocompleteUI
+0x1d682e000      819200  AppStoreDaemon
+                                /System/Library/PrivateFrameworks/AppStoreDaemon.framework/AppStoreDaemon
+0x1d68f6000      272576  ManagedSettingsObjC
+                                /System/Library/PrivateFrameworks/ManagedSettingsObjC.framework/ManagedSettingsObjC
+0x1d6939000     1164544  ScreenTimeCore
+                                /System/Library/PrivateFrameworks/ScreenTimeCore.framework/ScreenTimeCore
+0x1d6a56000       97216  ContextKitExtraction
+                                /System/Library/PrivateFrameworks/ContextKitExtraction.framework/ContextKitExtraction
+0x1d6a6e000     1944000  SafariCore
+                                /System/Library/PrivateFrameworks/SafariCore.framework/SafariCore
+0x1d6c49000      314592  UserNotifications
+                                /System/Library/Frameworks/UserNotifications.framework/UserNotifications
+0x1d6c96000      462080  SetupAssistant
+                                /System/Library/PrivateFrameworks/SetupAssistant.framework/SetupAssistant
+0x1d6d07000     3198048  InternationalSupport
+                                /System/Library/PrivateFrameworks/InternationalSupport.framework/InternationalSupport
+0x1d7014000      634144  Stickers
+                                /System/Library/PrivateFrameworks/Stickers.framework/Stickers
+0x1d70af000      958656  SensitiveContentAnalysisML
+                                /System/Library/PrivateFrameworks/SensitiveContentAnalysisML.framework/SensitiveContentAnalysisML
+0x1d719a000     1378080  Feedback
+                                /System/Library/PrivateFrameworks/Feedback.framework/Feedback
+0x1d72eb000    14473472  PegasusAPI
+                                /System/Library/PrivateFrameworks/PegasusAPI.framework/PegasusAPI
+0x1d80b9000      877888  CommunicationTrust
+                                /System/Library/PrivateFrameworks/CommunicationTrust.framework/CommunicationTrust
+0x1d8190000      610240  CalendarFoundation
+                                /System/Library/PrivateFrameworks/CalendarFoundation.framework/CalendarFoundation
+0x1d8225000      443264  AAAFoundationSwift
+                                /System/Library/PrivateFrameworks/AAAFoundationSwift.framework/AAAFoundationSwift
+0x1d8292000     3475776  AudioToolbox
+                                /System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+0x1d85e3000      238560  CoreServicesStore
+                                /System/Library/PrivateFrameworks/CoreServicesStore.framework/CoreServicesStore
+0x1d861e000      363904  libmis.dylib
+                                /usr/lib/libmis.dylib
+0x1d8677000      395872  IconFoundation
+                                /System/Library/PrivateFrameworks/IconFoundation.framework/IconFoundation
+0x1d8e85000     1560096  AVFAudio
+                                /System/Library/Frameworks/AVFAudio.framework/AVFAudio
+0x1d9002000      838208  CoreSuggestions
+                                /System/Library/PrivateFrameworks/CoreSuggestions.framework/CoreSuggestions
+0x1d90cf000      315936  CacheDelete
+                                /System/Library/PrivateFrameworks/CacheDelete.framework/CacheDelete
+0x1d911d000     2767296  NetworkExtension
+                                /System/Library/Frameworks/NetworkExtension.framework/NetworkExtension
+0x1d93c1000     1417248  ReplicatorServices
+                                /System/Library/PrivateFrameworks/ReplicatorServices.framework/ReplicatorServices
+0x1d951c000      177120  ProactiveDaemonSupport
+                                /System/Library/PrivateFrameworks/ProactiveDaemonSupport.framework/ProactiveDaemonSupport
+0x1d9548000      356352  NearbyInteraction
+                                /System/Library/Frameworks/NearbyInteraction.framework/NearbyInteraction
+0x1d959f000      127136  FMCoreLite
+                                /System/Library/PrivateFrameworks/FMCoreLite.framework/FMCoreLite
+0x1d95bf000      208448  PowerLog
+                                /System/Library/PrivateFrameworks/PowerLog.framework/PowerLog
+0x1d95f2000       51160  libswiftRegexBuilder.dylib
+                                /usr/lib/swift/libswiftRegexBuilder.dylib
+0x1d95ff000      778976  JetUI
+                                /System/Library/PrivateFrameworks/JetUI.framework/JetUI
+0x1d9cdf000      450752  Pegasus
+                                /System/Library/PrivateFrameworks/Pegasus.framework/Pegasus
+0x1d9ee3000      811936  AvatarKit
+                                /System/Library/PrivateFrameworks/AvatarKit.framework/AvatarKit
+0x1d9faa000       56256  libswiftUniformTypeIdentifiers.dylib
+                                /usr/lib/swift/libswiftUniformTypeIdentifiers.dylib
+0x1d9fb8000      288256  libdispatch.dylib
+                                /usr/lib/system/libdispatch.dylib
+0x1da165000     3078944  SafariShared
+                                /System/Library/PrivateFrameworks/SafariShared.framework/SafariShared
+0x1da455000      421408  TemplateKit
+                                /System/Library/PrivateFrameworks/TemplateKit.framework/TemplateKit
+0x1da4bc000     1269632  UIIntelligenceSupport
+                                /System/Library/PrivateFrameworks/UIIntelligenceSupport.framework/UIIntelligenceSupport
+0x1da644000      342464  SharedWithYou
+                                /System/Library/Frameworks/SharedWithYou.framework/SharedWithYou
+0x1db094000     2331776  SensitiveContentAnalysisUI
+                                /System/Library/PrivateFrameworks/SensitiveContentAnalysisUI.framework/SensitiveContentAnalysisUI
+0x1dba57000      772320  UnifiedAssetFramework
+                                /System/Library/PrivateFrameworks/UnifiedAssetFramework.framework/UnifiedAssetFramework
+0x1dbb14000      299072  DataDetectorsCore
+                                /System/Library/PrivateFrameworks/DataDetectorsCore.framework/DataDetectorsCore
+0x1dd0fe000      713568  GenerativePartnerServiceUI
+                                /System/Library/PrivateFrameworks/GenerativePartnerServiceUI.framework/GenerativePartnerServiceUI
+0x1dd44b000     2044000  MessageUI
+                                /System/Library/Frameworks/MessageUI.framework/MessageUI
+0x1dd63f000       75074  AtomicsInternal
+                                /System/Library/PrivateFrameworks/AtomicsInternal.framework/AtomicsInternal
+0x1dd652000     1096672  SpringBoardFoundation
+                                /System/Library/PrivateFrameworks/SpringBoardFoundation.framework/SpringBoardFoundation
+0x1ddc53000     1999776  TeaFoundation
+                                /System/Library/PrivateFrameworks/TeaFoundation.framework/TeaFoundation
+0x1dde3c000      628352  CoreRoutine
+                                /System/Library/PrivateFrameworks/CoreRoutine.framework/CoreRoutine
+0x1dded6000     1014080  libarchive.2.dylib
+                                /usr/lib/libarchive.2.dylib
+0x1ddfce000      228128  MobileInstallation
+                                /System/Library/PrivateFrameworks/MobileInstallation.framework/MobileInstallation
+0x1de006000       11964  libswift_DarwinFoundation1.dylib
+                                /usr/lib/swift/libswift_DarwinFoundation1.dylib
+0x1de1ca000      139904  CoreMaterial
+                                /System/Library/PrivateFrameworks/CoreMaterial.framework/CoreMaterial
+0x1de43d000      437184  AXRuntime
+                                /System/Library/PrivateFrameworks/AXRuntime.framework/AXRuntime
+0x1de4a8000      871904  SAObjects
+                                /System/Library/PrivateFrameworks/SAObjects.framework/SAObjects
+0x1decdb000      939232  TipsCore
+                                /System/Library/PrivateFrameworks/TipsCore.framework/TipsCore
+0x1dedc1000     2982624  NeutrinoCore
+                                /System/Library/PrivateFrameworks/NeutrinoCore.framework/NeutrinoCore
+0x1df09a000      198816  ANEServices
+                                /System/Library/PrivateFrameworks/ANEServices.framework/ANEServices
+0x1df0cb000      780032  PegasusKit
+                                /System/Library/PrivateFrameworks/PegasusKit.framework/PegasusKit
+0x1df756000     1054528  CoreBluetooth
+                                /System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+0x1df858000      139520  AudioAnalytics
+                                /System/Library/PrivateFrameworks/AudioAnalytics.framework/AudioAnalytics
+0x1df87b000      648344  libswift_RegexParser.dylib
+                                /usr/lib/swift/libswift_RegexParser.dylib
+0x1df91a000      587520  AppleIntelligenceReporting
+                                /System/Library/PrivateFrameworks/AppleIntelligenceReporting.framework/AppleIntelligenceReporting
+0x1df9aa000      767648  CryptoKitPrivate
+                                /System/Library/PrivateFrameworks/CryptoKitPrivate.framework/CryptoKitPrivate
+0x1dfa66000       74496  NanoPreferencesSync
+                                /System/Library/PrivateFrameworks/NanoPreferencesSync.framework/NanoPreferencesSync
+0x1dfa79000      273728  libnetworkextension.dylib
+                                /usr/lib/libnetworkextension.dylib
+0x1dfabc000       82720  AppleDeviceQuerySupport
+                                /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/AppleDeviceQuerySupport
+0x1dfad1000      629920  AccessibilityUIUtilities
+                                /System/Library/PrivateFrameworks/AccessibilityUIUtilities.framework/AccessibilityUIUtilities
+0x1dfb6b000     1088320  AccessibilitySharedSupport
+                                /System/Library/PrivateFrameworks/AccessibilitySharedSupport.framework/AccessibilitySharedSupport
+0x1dffe9000      266272  AppSSO
+                                /System/Library/PrivateFrameworks/AppSSO.framework/AppSSO
+0x1e002b000     6602464  RealityFoundation
+                                /System/Library/Frameworks/RealityFoundation.framework/RealityFoundation
+0x1e0992000      505248  MLAssetIO
+                                /System/Library/PrivateFrameworks/MLAssetIO.framework/MLAssetIO
+0x1e0a72000     1141408  PDFKit
+                                /System/Library/Frameworks/PDFKit.framework/PDFKit
+0x1e0c3b000     2331744  Calculate
+                                /System/Library/PrivateFrameworks/Calculate.framework/Calculate
+0x1e0e75000     1149024  AuthenticationServicesCore
+                                /System/Library/PrivateFrameworks/AuthenticationServicesCore.framework/AuthenticationServicesCore
+0x1e120f000     2672640  ARKitCore
+                                /System/Library/PrivateFrameworks/ARKitCore.framework/ARKitCore
+0x1e158e000      177280  GenerativePartnerService
+                                /System/Library/PrivateFrameworks/GenerativePartnerService.framework/GenerativePartnerService
+0x1e15ba000       80672  Symbols
+                                /System/Library/Frameworks/Symbols.framework/Symbols
+0x1e194a000     9952704  SiriTTS
+                                /System/Library/PrivateFrameworks/SiriTTS.framework/SiriTTS
+0x1e22c8000       48992  libMobileGestaltExtensions.dylib
+                                /usr/lib/libMobileGestaltExtensions.dylib
+0x1e2900000     2349312  CallHistory
+                                /System/Library/PrivateFrameworks/CallHistory.framework/CallHistory
+0x1e2b3e000     2278656  VideoProcessing
+                                /System/Library/PrivateFrameworks/VideoProcessing.framework/VideoProcessing
+0x1e2d6b000      323488  BannerKit
+                                /System/Library/PrivateFrameworks/BannerKit.framework/BannerKit
+0x1e3ddc000      145728  libswiftCoreLocation.dylib
+                                /usr/lib/swift/libswiftCoreLocation.dylib
+0x1e4d74000      669920  EmailFoundation
+                                /System/Library/PrivateFrameworks/EmailFoundation.framework/EmailFoundation
+0x1e4e18000     3845472  EmailDaemon
+                                /System/Library/PrivateFrameworks/EmailDaemon.framework/EmailDaemon
+0x1e52ed000     1402784  Email
+                                /System/Library/PrivateFrameworks/Email.framework/Email
+0x1e5444000     1051808  Symbolication
+                                /System/Library/PrivateFrameworks/Symbolication.framework/Symbolication
+0x1e5545000      245376  PlugInKit
+                                /System/Library/PrivateFrameworks/PlugInKit.framework/PlugInKit
+0x1e5581000     2070592  SafariSharedUI
+                                /System/Library/PrivateFrameworks/SafariSharedUI.framework/SafariSharedUI
+0x1e5bfc000      282784  ImageCaptureCore
+                                /System/Library/Frameworks/ImageCaptureCore.framework/ImageCaptureCore
+0x1e5c42000     7530592  PhotosIntelligence
+                                /System/Library/PrivateFrameworks/PhotosIntelligence.framework/PhotosIntelligence
+0x1e6371000     2477152  PhotoImaging
+                                /System/Library/PrivateFrameworks/PhotoImaging.framework/PhotoImaging
+0x1e65ce000      942644  libxml2.2.dylib
+                                /usr/lib/libxml2.2.dylib
+0x1e66b5000     1942240  WebKitLegacy
+                                /System/Library/PrivateFrameworks/WebKitLegacy.framework/WebKitLegacy
+0x1e6890000     1434464  SEService
+                                /System/Library/PrivateFrameworks/SEService.framework/SEService
+0x1e69ef000     4755296  PencilKit
+                                /System/Library/Frameworks/PencilKit.framework/PencilKit
+0x1e6f49000      614720  CarKit
+                                /System/Library/PrivateFrameworks/CarKit.framework/CarKit
+0x1e6fe0000      162176  HangTracer
+                                /System/Library/PrivateFrameworks/HangTracer.framework/HangTracer
+0x1e7008000      366816  BiometricKit
+                                /System/Library/PrivateFrameworks/BiometricKit.framework/BiometricKit
+0x1e738e000      183328  SymptomPresentationFeed
+                                /System/Library/PrivateFrameworks/Symptoms.framework/Frameworks/SymptomPresentationFeed.framework/SymptomPresentationFeed
+0x1e73bb000      122368  SyncedDefaults
+                                /System/Library/PrivateFrameworks/SyncedDefaults.framework/SyncedDefaults
+0x1e73d9000      133792  AAAFoundation
+                                /System/Library/PrivateFrameworks/AAAFoundation.framework/AAAFoundation
+0x1e73fa000      140160  MobileKeyBag
+                                /System/Library/PrivateFrameworks/MobileKeyBag.framework/MobileKeyBag
+0x1e74b8000      378496  BiomePubSub
+                                /System/Library/PrivateFrameworks/BiomePubSub.framework/BiomePubSub
+0x1e7a83000     5481600  ToolKit
+                                /System/Library/PrivateFrameworks/ToolKit.framework/ToolKit
+0x1e80fa000      264192  BiomeStorage
+                                /System/Library/PrivateFrameworks/BiomeStorage.framework/BiomeStorage
+0x1e813b000      569056  CameraColorProcessing
+                                /System/Library/PrivateFrameworks/CameraColorProcessing.framework/CameraColorProcessing
+0x1e81c6000      293440  libswiftAVFoundation.dylib
+                                /usr/lib/swift/libswiftAVFoundation.dylib
+0x1e820e000      472352  CloudCoreInternal
+                                /System/Library/PrivateFrameworks/CloudCoreInternal.framework/CloudCoreInternal
+0x1e8282000      112128  ProtocolBuffer
+                                /System/Library/PrivateFrameworks/ProtocolBuffer.framework/ProtocolBuffer
+0x1e829e000      196640  OctagonTrust
+                                /System/Library/PrivateFrameworks/OctagonTrust.framework/OctagonTrust
+0x1e85b7000      383840  MediaAnalysisServices
+                                /System/Library/PrivateFrameworks/MediaAnalysisServices.framework/MediaAnalysisServices
+0x1e8615000     4128576  SoundAnalysis
+                                /System/Library/Frameworks/SoundAnalysis.framework/SoundAnalysis
+0x1e8a05000     5555424  MediaAnalysis
+                                /System/Library/PrivateFrameworks/MediaAnalysis.framework/MediaAnalysis
+0x1e8f52000      317056  IOGPU
+                                /System/Library/PrivateFrameworks/IOGPU.framework/IOGPU
+0x1e90b6000      338304  QuickLookThumbnailing
+                                /System/Library/Frameworks/QuickLookThumbnailing.framework/QuickLookThumbnailing
+0x1e9109000      123648  AppSSOCore
+                                /System/Library/PrivateFrameworks/AppSSOCore.framework/AppSSOCore
+0x1e9a98000     2968256  CalendarUIKit
+                                /System/Library/PrivateFrameworks/CalendarUIKit.framework/CalendarUIKit
+0x1e9ecd000    28271232  Recon3D
+                                /System/Library/PrivateFrameworks/Recon3D.framework/Recon3D
+0x1eb9c4000    36470816  AppleCV3D
+                                /System/Library/PrivateFrameworks/AppleCV3D.framework/AppleCV3D
+0x1eecf4000      581856  ProactiveSummarizationClient
+                                /System/Library/PrivateFrameworks/ProactiveSummarizationClient.framework/ProactiveSummarizationClient
+0x1efb85000     3810044  CoreNavigation
+                                /System/Library/PrivateFrameworks/CoreNavigation.framework/CoreNavigation
+0x1f10e2000      294720  CoreAutoLayout
+                                /System/Library/PrivateFrameworks/CoreAutoLayout.framework/CoreAutoLayout
+0x1f1293000      306336  PhotosUI
+                                /System/Library/Frameworks/PhotosUI.framework/PhotosUI
+0x1f12de000     1042240  VisualUnderstanding
+                                /System/Library/PrivateFrameworks/VisualUnderstanding.framework/VisualUnderstanding
+0x1f1b3b000      308064  ExtensionKit
+                                /System/Library/Frameworks/ExtensionKit.framework/ExtensionKit
+0x1f1c72000      207744  CoreEmoji
+                                /System/Library/PrivateFrameworks/CoreEmoji.framework/CoreEmoji
+0x1f1ca5000      949344  ProofReader
+                                /System/Library/PrivateFrameworks/ProofReader.framework/ProofReader
+0x1f1d8d000      124000  SharedWithYouCore
+                                /System/Library/Frameworks/SharedWithYouCore.framework/SharedWithYouCore
+0x1f1dac000      649056  GameControllerFoundation
+                                /System/Library/PrivateFrameworks/GameControllerFoundation.framework/GameControllerFoundation
+0x1f1e4b000     1520544  GameController
+                                /System/Library/Frameworks/GameController.framework/GameController
+0x1f2095000      251744  AutoFillUI
+                                /System/Library/PrivateFrameworks/AutoFillUI.framework/AutoFillUI
+0x1f20d3000      618240  VectorSearch
+                                /System/Library/PrivateFrameworks/VectorSearch.framework/VectorSearch
+0x1f216a000     1951968  ManagedBackgroundAssetsHelper
+                                /System/Library/PrivateFrameworks/ManagedBackgroundAssetsHelper.framework/ManagedBackgroundAssetsHelper
+0x1f2347000     2222944  Navigation
+                                /System/Library/PrivateFrameworks/Navigation.framework/Navigation
+0x1f265e000     2928448  EventKitUI
+                                /System/Library/Frameworks/EventKitUI.framework/EventKitUI
+0x1f2929000      335488  MIME
+                                /System/Library/PrivateFrameworks/MIME.framework/MIME
+0x1f334f000      244768  _AppIntents_SwiftUI
+                                /System/Library/Frameworks/_AppIntents_SwiftUI.framework/_AppIntents_SwiftUI
+0x1f3750000      370112  WritingToolsUI
+                                /System/Library/PrivateFrameworks/WritingToolsUI.framework/WritingToolsUI
+0x1f37ab000      536512  NotesSupport
+                                /System/Library/PrivateFrameworks/NotesSupport.framework/NotesSupport
+0x1f3852000      226592  InputAnalytics
+                                /System/Library/PrivateFrameworks/InputAnalytics.framework/InputAnalytics
+0x1f388a000     2542112  SafariServices
+                                /System/Library/Frameworks/SafariServices.framework/SafariServices
+0x1f3af7000     3388864  StoreServices
+                                /System/Library/PrivateFrameworks/StoreServices.framework/StoreServices
+0x1f4090000    10500288  MusicKitInternal
+                                /System/Library/PrivateFrameworks/MusicKitInternal.framework/MusicKitInternal
+0x1f4a94000     4073780  MediaLibraryCore
+                                /System/Library/PrivateFrameworks/MediaLibraryCore.framework/MediaLibraryCore
+0x1f79f4000       24488  libswiftCoreFoundation.dylib
+                                /usr/lib/swift/libswiftCoreFoundation.dylib
+0x1f79fa000       48096  libGSFont.dylib
+                                /System/Library/PrivateFrameworks/FontServices.framework/libGSFont.dylib
+0x1f7a06000       26240  libapp_launch_measurement.dylib
+                                /usr/lib/libapp_launch_measurement.dylib
+0x1f7bc1000      236140  MobileBluetooth
+                                /System/Library/PrivateFrameworks/MobileBluetooth.framework/MobileBluetooth
+0x1f7d5f000      106272  MailServices
+                                /System/Library/PrivateFrameworks/MailServices.framework/MailServices
+0x1f81bd000       75968  PhotoFoundation
+                                /System/Library/PrivateFrameworks/PhotoFoundation.framework/PhotoFoundation
+0x1f81d0000      381632  PhotosSpatialMediaCore
+                                /System/Library/PrivateFrameworks/PhotosSpatialMediaCore.framework/PhotosSpatialMediaCore
+0x1f824e000      446784  PoirotSchematizer
+                                /System/Library/PrivateFrameworks/PoirotSchematizer.framework/PoirotSchematizer
+0x1f82bc000      387008  PegasusConfiguration
+                                /System/Library/PrivateFrameworks/PegasusConfiguration.framework/PegasusConfiguration
+0x1f89db000      518688  ToneLibrary
+                                /System/Library/PrivateFrameworks/ToneLibrary.framework/ToneLibrary
+0x1f8bc3000      697696  ManagedAppDistribution
+                                /System/Library/Frameworks/ManagedAppDistribution.framework/ManagedAppDistribution
+0x1f8c6e000      856384  MarketplaceKit
+                                /System/Library/Frameworks/MarketplaceKit.framework/MarketplaceKit
+0x1f8d40000      121056  MetalKit
+                                /System/Library/Frameworks/MetalKit.framework/MetalKit
+0x1f8db6000     1398080  CoreSymbolication
+                                /System/Library/PrivateFrameworks/CoreSymbolication.framework/CoreSymbolication
+0x1f8f95000     1162304  SiriAnalytics
+                                /System/Library/PrivateFrameworks/SiriAnalytics.framework/SiriAnalytics
+0x1f90b1000     6165248  VisualLookUp
+                                /System/Library/PrivateFrameworks/VisualLookUp.framework/VisualLookUp
+0x1f9693000     1022592  CVNLP
+                                /System/Library/PrivateFrameworks/CVNLP.framework/CVNLP
+0x1f9e77000      693472  InstallCoordination
+                                /System/Library/PrivateFrameworks/InstallCoordination.framework/InstallCoordination
+0x1fa0d1000      333440  SiriCrossDeviceArbitration
+                                /System/Library/PrivateFrameworks/SiriCrossDeviceArbitration.framework/SiriCrossDeviceArbitration
+0x1fa3be000       27296  LockdownMode
+                                /System/Library/PrivateFrameworks/LockdownMode.framework/LockdownMode
+0x1fa3c5000      521760  SystemStatus
+                                /System/Library/PrivateFrameworks/SystemStatus.framework/SystemStatus
+0x1fa445000     3162176  StocksCore
+                                /System/Library/PrivateFrameworks/StocksCore.framework/StocksCore
+0x1fa74a000      101713  libswiftSystem.dylib
+                                /usr/lib/swift/libswiftSystem.dylib
+0x1fa929000     2051776  CoreODIEssentials
+                                /System/Library/PrivateFrameworks/CoreODIEssentials.framework/CoreODIEssentials
+0x1faf93000    10754016  AVConference
+                                /System/Library/PrivateFrameworks/AVConference.framework/AVConference
+0x1fb9d5000      380352  DeviceManagement
+                                /System/Library/PrivateFrameworks/DeviceManagement.framework/DeviceManagement
+0x1fba32000     2331232  CloudPhotoLibrary
+                                /System/Library/PrivateFrameworks/CloudPhotoLibrary.framework/CloudPhotoLibrary
+0x1fd4e3000     1455840  Anvil
+                                /System/Library/PrivateFrameworks/Anvil.framework/Anvil
+0x1fde6b000      156072  libAudioToolboxUtility.dylib
+                                /usr/lib/libAudioToolboxUtility.dylib
+0x1fde92000     6968064  CoreAudio
+                                /System/Library/Frameworks/CoreAudio.framework/CoreAudio
+0x1fe538000      311552  libSessionUtility.dylib
+                                /System/Library/PrivateFrameworks/AudioSession.framework/libSessionUtility.dylib
+0x1fe585000     2369600  CoreBrightness
+                                /System/Library/PrivateFrameworks/CoreBrightness.framework/CoreBrightness
+0x1fe7c8000      319872  AppleIDSSOAuthentication
+                                /System/Library/PrivateFrameworks/AppleIDSSOAuthentication.framework/AppleIDSSOAuthentication
+0x1fe817000      341600  MobileBackup
+                                /System/Library/PrivateFrameworks/MobileBackup.framework/MobileBackup
+0x1fe86b000     1229568  CalendarDatabase
+                                /System/Library/PrivateFrameworks/CalendarDatabase.framework/CalendarDatabase
+0x1fe998000      301056  VisionCore
+                                /System/Library/PrivateFrameworks/VisionCore.framework/VisionCore
+0x1fe9e2000      488064  AppleCVAPhoto
+                                /System/Library/PrivateFrameworks/AppleCVAPhoto.framework/AppleCVAPhoto
+0x1fea5a000      508512  CoreCDP
+                                /System/Library/PrivateFrameworks/CoreCDP.framework/CoreCDP
+0x1fead7000     1916512  ReplicatorEngine
+                                /System/Library/PrivateFrameworks/ReplicatorEngine.framework/ReplicatorEngine
+0x1fed4e000      713696  libcorecrypto.dylib
+                                /usr/lib/system/libcorecrypto.dylib
+0x1fedfd000      248704  CoreSVG
+                                /System/Library/PrivateFrameworks/CoreSVG.framework/CoreSVG
+0x1fee3a000       50416  libsystem_pthread.dylib
+                                /usr/lib/system/libsystem_pthread.dylib
+0x1fef4b000      193792  PrivacyAccounting
+                                /System/Library/PrivateFrameworks/PrivacyAccounting.framework/PrivacyAccounting
+0x1fef7b000      231448  libsystem_containermanager.dylib
+                                /usr/lib/system/libsystem_containermanager.dylib
+0x1ff0fb000       46944  SharedUtils
+                                /System/Library/Frameworks/LocalAuthentication.framework/Support/SharedUtils.framework/SharedUtils
+0x1ff107000      440416  CryptoTokenKit
+                                /System/Library/Frameworks/CryptoTokenKit.framework/CryptoTokenKit
+0x1ff173000     1298880  CloudSubscriptionFeatures
+                                /System/Library/PrivateFrameworks/CloudSubscriptionFeatures.framework/CloudSubscriptionFeatures
+0x1ff2b1000      785824  FindMyBase
+                                /System/Library/PrivateFrameworks/FindMyBase.framework/FindMyBase
+0x1ff371000      232096  FindMyDevice
+                                /System/Library/PrivateFrameworks/FindMyDevice.framework/FindMyDevice
+0x1ff3aa000       88416  FontServices
+                                /System/Library/PrivateFrameworks/FontServices.framework/FontServices
+0x1ff41d000       65021  libswiftObservation.dylib
+                                /usr/lib/swift/libswiftObservation.dylib
+0x1ff42d000      235296  ProactiveEventTracker
+                                /System/Library/PrivateFrameworks/ProactiveEventTracker.framework/ProactiveEventTracker
+0x1ff467000      607136  AppIntentSchemas
+                                /System/Library/PrivateFrameworks/AppIntentSchemas.framework/AppIntentSchemas
+0x1ff539000      224896  LocationSupport
+                                /System/Library/PrivateFrameworks/LocationSupport.framework/LocationSupport
+0x1ff64c000       96772  libsystem_asl.dylib
+                                /usr/lib/system/libsystem_asl.dylib
+0x1ff664000      624064  WirelessInsights
+                                /System/Library/Frameworks/WirelessInsights.framework/WirelessInsights
+0x1ff706000    19981152  MetalPerformanceShadersGraph
+                                /System/Library/Frameworks/MetalPerformanceShadersGraph.framework/MetalPerformanceShadersGraph
+0x200a15000      476000  NanoRegistry
+                                /System/Library/PrivateFrameworks/NanoRegistry.framework/NanoRegistry
+0x200a8a000      468519  AppleKeyStore
+                                /System/Library/PrivateFrameworks/AppleKeyStore.framework/AppleKeyStore
+0x200afd000     2858528  CoreWiFi
+                                /System/Library/PrivateFrameworks/CoreWiFi.framework/CoreWiFi
+0x200db7000       81760  libAppleSSE.dylib
+                                /usr/lib/libAppleSSE.dylib
+0x200dcb000     1622752  SampleAnalysis
+                                /System/Library/PrivateFrameworks/SampleAnalysis.framework/SampleAnalysis
+0x200f58000      384000  SoftwareUpdateCoreSupport
+                                /System/Library/PrivateFrameworks/SoftwareUpdateCoreSupport.framework/SoftwareUpdateCoreSupport
+0x2010d7000      583776  Transparency
+                                /System/Library/PrivateFrameworks/Transparency.framework/Transparency
+0x201166000       93888  Futhark
+                                /System/Library/PrivateFrameworks/Futhark.framework/Futhark
+0x20117d000       53216  ClarityFoundation
+                                /System/Library/PrivateFrameworks/ClarityFoundation.framework/ClarityFoundation
+0x20118a000      440992  RemoteManagement
+                                /System/Library/PrivateFrameworks/RemoteManagement.framework/RemoteManagement
+0x226a50000    22530656  CoreRE
+                                /System/Library/PrivateFrameworks/CoreRE.framework/CoreRE
+0x22a158000      821952  AppleCVHWA
+                                /System/Library/PrivateFrameworks/AppleCVHWA.framework/AppleCVHWA
+0x22a221000      103552  ContextKit
+                                /System/Library/PrivateFrameworks/ContextKit.framework/ContextKit
+0x22a23b000     1829024  FeedbackCore
+                                /System/Library/PrivateFrameworks/FeedbackCore.framework/FeedbackCore
+0x22a3fa000     1480512  DesktopServicesPriv
+                                /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/DesktopServicesPriv
+0x22a564000      367200  DocumentManager
+                                /System/Library/PrivateFrameworks/DocumentManager.framework/DocumentManager
+0x22ee63000      297952  CoreTransferable
+                                /System/Library/Frameworks/CoreTransferable.framework/CoreTransferable
+0x22eeac000       51808  GameControllerUI
+                                /System/Library/PrivateFrameworks/GameControllerUI.framework/GameControllerUI
+0x22eeb9000      845792  ManagedSettings
+                                /System/Library/Frameworks/ManagedSettings.framework/ManagedSettings
+0x23457d000      259784  libllvm-flatbuffers.dylib
+                                /usr/lib/libllvm-flatbuffers.dylib
+0x2345ec000      982976  _MapKit_SwiftUI
+                                /System/Library/Frameworks/_MapKit_SwiftUI.framework/_MapKit_SwiftUI
+0x2348d2000    10999552  BlastDoor
+                                /System/Library/PrivateFrameworks/BlastDoor.framework/BlastDoor
+0x2354b1000        9440  MessageSupport
+                                /System/Library/PrivateFrameworks/MessageSupport.framework/MessageSupport
+0x2360e8000      234624  BusinessServices
+                                /System/Library/PrivateFrameworks/BusinessServices.framework/BusinessServices
+0x23613a000      547168  ContactsAutocomplete
+                                /System/Library/PrivateFrameworks/ContactsAutocomplete.framework/ContactsAutocomplete
+0x2361da000      532448  CoreHaptics
+                                /System/Library/Frameworks/CoreHaptics.framework/CoreHaptics
+0x23625c000      853312  AppStoreComponents
+                                /System/Library/PrivateFrameworks/AppStoreComponents.framework/AppStoreComponents
+0x236366000     4010464  MobileSafariUI
+                                /System/Library/PrivateFrameworks/MobileSafariUI.framework/MobileSafariUI
+0x2371a8000      145824  MonogramPoster
+                                /System/Library/PrivateFrameworks/MonogramPoster.framework/MonogramPoster
+0x237ddd000     6702240  MusicKit
+                                /System/Library/Frameworks/MusicKit.framework/MusicKit
+0x238596000      401984  TeaDB
+                                /System/Library/PrivateFrameworks/TeaDB.framework/TeaDB
+0x2385f9000      308192  RemoteConfiguration
+                                /System/Library/PrivateFrameworks/RemoteConfiguration.framework/RemoteConfiguration
+0x238b85000     7125296  MIL
+                                /System/Library/PrivateFrameworks/MIL.framework/MIL
+0x23bf0c000      247661  PoirotSQLite
+                                /System/Library/PrivateFrameworks/PoirotSQLite.framework/PoirotSQLite
+0x23bf49000      220000  PoirotUDFs
+                                /System/Library/PrivateFrameworks/PoirotUDFs.framework/PoirotUDFs
+0x23c24f000     1297184  TabularData
+                                /System/Library/Frameworks/TabularData.framework/TabularData
+0x23ca15000     1864864  RemoteUI
+                                /System/Library/PrivateFrameworks/RemoteUI.framework/RemoteUI
+0x23d01a000     4910624  SceneKit
+                                /System/Library/Frameworks/SceneKit.framework/SceneKit
+0x23d4c9000      166944  NetAppsUtilities
+                                /System/Library/PrivateFrameworks/NetAppsUtilities.framework/NetAppsUtilities
+0x23d4f2000     1428672  SpriteKit
+                                /System/Library/Frameworks/SpriteKit.framework/SpriteKit
+0x23d677000      153216  DriverManagement
+                                /System/Library/PrivateFrameworks/DriverManagement.framework/DriverManagement
+0x23d69d000       64864  _IconServices_SwiftUI
+                                /System/Library/PrivateFrameworks/_IconServices_SwiftUI.framework/_IconServices_SwiftUI
+0x23d6f2000      678165  AsyncAlgorithmsInternal
+                                /System/Library/PrivateFrameworks/AsyncAlgorithmsInternal.framework/AsyncAlgorithmsInternal
+0x23d7f9000     6273568  PasswordManagerUI
+                                /System/Library/PrivateFrameworks/PasswordManagerUI.framework/PasswordManagerUI
+0x23ddf5000     1113280  CoreIDV
+                                /System/Library/PrivateFrameworks/CoreIDV.framework/CoreIDV
+0x23df1d000      721920  Settings
+                                /System/Library/PrivateFrameworks/Settings.framework/Settings
+0x23e37f000      173440  AppSupportUI
+                                /System/Library/PrivateFrameworks/AppSupportUI.framework/AppSupportUI
+0x23f0c0000      264640  ScreenTimeUI
+                                /System/Library/PrivateFrameworks/ScreenTimeUI.framework/ScreenTimeUI
+0x23f13b000     1021664  SceneIntelligence
+                                /System/Library/PrivateFrameworks/SceneIntelligence.framework/SceneIntelligence
+0x23f9bf000      119008  MaterialKit
+                                /System/Library/PrivateFrameworks/MaterialKit.framework/MaterialKit
+0x23f9dd000      170272  PrototypeTools
+                                /System/Library/PrivateFrameworks/PrototypeTools.framework/PrototypeTools
+0x23fa40000      877728  PaperBoardUI
+                                /System/Library/PrivateFrameworks/PaperBoardUI.framework/PaperBoardUI
+0x240140000       77728  PointerUIServices
+                                /System/Library/PrivateFrameworks/PointerUIServices.framework/PointerUIServices
+0x2412c5000      261888  BacklightServices
+                                /System/Library/PrivateFrameworks/BacklightServices.framework/BacklightServices
+0x241378000       62944  shared_cache_page_prewarming
+                                /System/Library/PrivateFrameworks/shared_cache_page_prewarming.framework/shared_cache_page_prewarming
+0x2413de000      865920  NearField
+                                /System/Library/PrivateFrameworks/NearField.framework/NearField
+0x2414ce000      433920  DoNotDisturb
+                                /System/Library/PrivateFrameworks/DoNotDisturb.framework/DoNotDisturb
+0x24207a000      967488  TipsUI
+                                /System/Library/PrivateFrameworks/TipsUI.framework/TipsUI
+0x242fd9000     2717952  AppIntentsServices
+                                /System/Library/PrivateFrameworks/AppIntentsServices.framework/AppIntentsServices
+0x243271000      131104  GenerativeAssistantCommon
+                                /System/Library/PrivateFrameworks/GenerativeAssistantCommon.framework/GenerativeAssistantCommon
+0x2432b8000       40028  libunwind.dylib
+                                /usr/lib/system/libunwind.dylib
+0x2432e5000      257504  CoreAccessories
+                                /System/Library/PrivateFrameworks/CoreAccessories.framework/CoreAccessories
+0x243918000      811936  AirPlaySupport
+                                /System/Library/PrivateFrameworks/AirPlaySupport.framework/AirPlaySupport
+0x2439df000     1128960  AuthKitUI
+                                /System/Library/PrivateFrameworks/AuthKitUI.framework/AuthKitUI
+0x243b26000      700608  libFDR.dylib
+                                /usr/lib/libFDR.dylib
+0x243df4000      219680  CBORLibrary
+                                /System/Library/PrivateFrameworks/CBORLibrary.framework/CBORLibrary
+0x244745000       94112  GenerativeAssistantSettings
+                                /System/Library/PrivateFrameworks/GenerativeAssistantSettings.framework/GenerativeAssistantSettings
+0x245353000      188768  RTCReporting
+                                /System/Library/PrivateFrameworks/RTCReporting.framework/RTCReporting
+0x245382000      123840  AXAssetLoader
+                                /System/Library/PrivateFrameworks/AXAssetLoader.framework/AXAssetLoader
+0x2453a1000      343072  VoiceOverServices
+                                /System/Library/PrivateFrameworks/VoiceOverServices.framework/VoiceOverServices
+0x245437000      235008  IOMobileFramebuffer
+                                /System/Library/PrivateFrameworks/IOMobileFramebuffer.framework/IOMobileFramebuffer
+0x24548c000       34752  GraphicsServices
+                                /System/Library/PrivateFrameworks/GraphicsServices.framework/GraphicsServices
+0x2459ae000      769408  CalendarDaemon
+                                /System/Library/PrivateFrameworks/CalendarDaemon.framework/CalendarDaemon
+0x245a6a000      260704  DataAccessExpress
+                                /System/Library/PrivateFrameworks/DataAccessExpress.framework/DataAccessExpress
+0x245aaa000     1129376  Portrait
+                                /System/Library/PrivateFrameworks/Portrait.framework/Portrait
+0x24641e000     2425152  CipherML
+                                /System/Library/PrivateFrameworks/CipherML.framework/CipherML
+0x246bb4000      567200  NeighborhoodActivityConduit
+                                /System/Library/PrivateFrameworks/NeighborhoodActivityConduit.framework/NeighborhoodActivityConduit
+0x246c3f000      574016  SafariSafeBrowsing
+                                /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/SafariSafeBrowsing
+0x246ccc000     2745312  WebGPU
+                                /System/Library/PrivateFrameworks/WebGPU.framework/WebGPU
+0x246f81000      112576  ContactsDonation
+                                /System/Library/PrivateFrameworks/ContactsDonation.framework/ContactsDonation
+0x246f9d000      368160  Synapse
+                                /System/Library/PrivateFrameworks/Synapse.framework/Synapse
+0x246ff7000      326112  KnowledgeMonitor
+                                /System/Library/PrivateFrameworks/KnowledgeMonitor.framework/KnowledgeMonitor
+0x247047000     3033120  CoreIDVShared
+                                /System/Library/PrivateFrameworks/CoreIDVShared.framework/CoreIDVShared
+0x24732c000      547808  AlgorithmsInternal
+                                /System/Library/PrivateFrameworks/AlgorithmsInternal.framework/AlgorithmsInternal
+0x247921000      204448  DeviceIdentity
+                                /System/Library/PrivateFrameworks/DeviceIdentity.framework/DeviceIdentity
+0x247953000      571552  DifferentialPrivacy
+                                /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/DifferentialPrivacy
+0x2481a1000      434720  UserActivity
+                                /System/Library/PrivateFrameworks/UserActivity.framework/UserActivity
+0x249213000       61850  StorageContainersPrivate
+                                /System/Library/PrivateFrameworks/StorageContainersPrivate.framework/StorageContainersPrivate
+0x24ca34000      824544  HMFoundation
+                                /System/Library/PrivateFrameworks/HMFoundation.framework/HMFoundation
+0x24d125000      718240  MessageProtection
+                                /System/Library/PrivateFrameworks/MessageProtection.framework/MessageProtection
+0x24d1d5000       88928  CloudTelemetry
+                                /System/Library/PrivateFrameworks/CloudTelemetry.framework/CloudTelemetry
+0x24e96f000      127360  IntentsUI
+                                /System/Library/Frameworks/IntentsUI.framework/IntentsUI
+0x24ec50000      993632  NLP
+                                /System/Library/PrivateFrameworks/NLP.framework/NLP
+0x24ed43000      244512  libsystem_kernel.dylib
+                                /usr/lib/system/libsystem_kernel.dylib
+0x24ed7f000       12204  libsystem_featureflags.dylib
+                                /usr/lib/system/libsystem_featureflags.dylib
+0x24ee1f000       49984  SessionFoundation
+                                /System/Library/PrivateFrameworks/SessionFoundation.framework/SessionFoundation
+0x24efd6000       39872  CoreTime
+                                /System/Library/PrivateFrameworks/CoreTime.framework/CoreTime
+0x24efe9000      107264  RegulatoryDomain
+                                /System/Library/PrivateFrameworks/RegulatoryDomain.framework/RegulatoryDomain
+0x24f004000      556480  EmailCore
+                                /System/Library/PrivateFrameworks/EmailCore.framework/EmailCore
+0x24f279000     4070240  MusicLibrary
+                                /System/Library/PrivateFrameworks/MusicLibrary.framework/MusicLibrary
+0x24f65b000       33616  libsystem_symptoms.dylib
+                                /usr/lib/system/libsystem_symptoms.dylib
+0x24ffa4000      582656  CloudTelemetryTools
+                                /System/Library/PrivateFrameworks/CloudTelemetryTools.framework/CloudTelemetryTools
+0x250033000       83136  HID
+                                /System/Library/PrivateFrameworks/HID.framework/HID
+0x250048000      166400  PairedDeviceRegistry
+                                /System/Library/PrivateFrameworks/PairedDeviceRegistry.framework/PairedDeviceRegistry
+0x250071000      167264  IntlPreferences
+                                /System/Library/PrivateFrameworks/IntlPreferences.framework/IntlPreferences
+0x25009a000      322112  WiFiPeerToPeer
+                                /System/Library/PrivateFrameworks/WiFiPeerToPeer.framework/WiFiPeerToPeer
+0x2500e9000      562496  LoggingSupport
+                                /System/Library/PrivateFrameworks/LoggingSupport.framework/LoggingSupport
+0x250173000      394336  libswiftCoreMedia.dylib
+                                /usr/lib/swift/libswiftCoreMedia.dylib
+0x2501d4000     1949376  MetalTools
+                                /System/Library/PrivateFrameworks/MetalTools.framework/MetalTools
+0x2503b0000       80288  SoftwareUpdateCoreConnect
+                                /System/Library/PrivateFrameworks/SoftwareUpdateCoreConnect.framework/SoftwareUpdateCoreConnect
+0x2503c4000      748448  MPSCore
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSCore.framework/MPSCore
+0x25047b000      557984  SignpostSupport
+                                /System/Library/PrivateFrameworks/SignpostSupport.framework/SignpostSupport
+0x250504000      202624  Seeding
+                                /System/Library/PrivateFrameworks/Seeding.framework/Seeding
+0x250536000      546688  SFSymbols
+                                /System/Library/PrivateFrameworks/SFSymbols.framework/SFSymbols
+0x2505bc000      144320  SetupAssistantSupport
+                                /System/Library/PrivateFrameworks/SetupAssistantSupport.framework/SetupAssistantSupport
+0x2505e0000      172256  PerfPowerMetricMonitor
+                                /System/Library/PrivateFrameworks/PerfPowerMetricMonitor.framework/PerfPowerMetricMonitor
+0x25060b000      132736  SecurityFoundation
+                                /System/Library/PrivateFrameworks/SecurityFoundation.framework/SecurityFoundation
+0x25062c000       88448  RemoteServiceDiscovery
+                                /System/Library/PrivateFrameworks/RemoteServiceDiscovery.framework/RemoteServiceDiscovery
+0x250642000      516544  TrialProto
+                                /System/Library/PrivateFrameworks/TrialProto.framework/TrialProto
+0x2506c1000      824288  ANSTKit
+                                /System/Library/PrivateFrameworks/ANSTKit.framework/ANSTKit
+0x25078b000       79264  CameraOverlayServices
+                                /System/Library/PrivateFrameworks/CameraOverlayServices.framework/CameraOverlayServices
+0x25079f000      204512  CoreFollowUp
+                                /System/Library/PrivateFrameworks/CoreFollowUp.framework/CoreFollowUp
+0x2507d1000      458336  CloudAsset
+                                /System/Library/PrivateFrameworks/CloudAsset.framework/CloudAsset
+0x250841000       26016  MSUDataAccessor
+                                /System/Library/PrivateFrameworks/MSUDataAccessor.framework/MSUDataAccessor
+0x250848000       56544  DataMigration
+                                /System/Library/PrivateFrameworks/DataMigration.framework/DataMigration
+0x250856000     2527584  ODIE
+                                /System/Library/PrivateFrameworks/ODIE.framework/ODIE
+0x250ac0000       42880  LowPowerMode
+                                /System/Library/PrivateFrameworks/LowPowerMode.framework/LowPowerMode
+0x250acb000      215168  MDMClientLibrary
+                                /System/Library/PrivateFrameworks/MDMClientLibrary.framework/MDMClientLibrary
+0x250b00000      293664  CloudServices
+                                /System/Library/PrivateFrameworks/CloudServices.framework/CloudServices
+0x250b48000      386944  CoreMediaIO
+                                /System/Library/Frameworks/CoreMediaIO.framework/CoreMediaIO
+0x250ba7000      658912  Trial
+                                /System/Library/PrivateFrameworks/Trial.framework/Trial
+0x250c48000      262688  KeychainCircle
+                                /System/Library/PrivateFrameworks/KeychainCircle.framework/KeychainCircle
+0x250c89000     2219168  CMImaging
+                                /System/Library/PrivateFrameworks/CMImaging.framework/CMImaging
+0x250ea7000       13952  libswiftObjectiveC.dylib
+                                /usr/lib/swift/libswiftObjectiveC.dylib
+0x250eab000      968640  ktrace
+                                /System/Library/PrivateFrameworks/ktrace.framework/ktrace
+0x250f98000      120256  UserManagementLayout
+                                /System/Library/PrivateFrameworks/UserManagementLayout.framework/UserManagementLayout
+0x250fb6000      214432  libtailspin.dylib
+                                /usr/lib/libtailspin.dylib
+0x250feb000       55424  AssertionServices
+                                /System/Library/PrivateFrameworks/AssertionServices.framework/AssertionServices
+0x250ff9000      215040  libnfshared.dylib
+                                /usr/lib/libnfshared.dylib
+0x251b5d000      416608  MXI
+                                /System/Library/PrivateFrameworks/MXI.framework/MXI
+0x25202a000      178658  SwiftASN1Internal
+                                /System/Library/PrivateFrameworks/SwiftASN1Internal.framework/SwiftASN1Internal
+0x2525d8000       85280  RemoteXPC
+                                /System/Library/PrivateFrameworks/RemoteXPC.framework/RemoteXPC
+0x253232000      939232  ShazamKit
+                                /System/Library/Frameworks/ShazamKit.framework/ShazamKit
+0x253318000      153504  ShazamCore
+                                /System/Library/PrivateFrameworks/ShazamCore.framework/ShazamCore
+0x253aff000     1161280  SocialLayer
+                                /System/Library/PrivateFrameworks/SocialLayer.framework/SocialLayer
+0x25415d000      193568  RecencyService
+                                /System/Library/PrivateFrameworks/Stickers.framework/Support/RecencyService.framework/RecencyService
+0x25418d000      106560  PersonalIntelligenceCore
+                                /System/Library/PrivateFrameworks/PersonalIntelligenceCore.framework/PersonalIntelligenceCore
+0x2549c5000       53952  SymptomShared
+                                /System/Library/PrivateFrameworks/SymptomShared.framework/SymptomShared
+0x2549d3000       77856  SymptomAnalytics
+                                /System/Library/PrivateFrameworks/Symptoms.framework/Frameworks/SymptomAnalytics.framework/SymptomAnalytics
+0x2552b8000       31840  libswiftNaturalLanguage.dylib
+                                /usr/lib/swift/libswiftNaturalLanguage.dylib
+0x2552c0000       70496  SpotlightReceiver
+                                /System/Library/PrivateFrameworks/SpotlightReceiver.framework/SpotlightReceiver
+0x255a52000       79008  libprotobuf-lite.dylib
+                                /usr/lib/libprotobuf-lite.dylib
+0x255cdd000     2535872  RawCamera
+                                /System/Library/CoreServices/RawCamera.bundle/RawCamera
+0x255f62000        7232  ARKit
+                                /System/Library/Frameworks/ARKit.framework/ARKit
+0x255f64000        1288  AVFoundation
+                                /System/Library/Frameworks/AVFoundation.framework/AVFoundation
+0x255f65000         912  Accelerate
+                                /System/Library/Frameworks/Accelerate.framework/Accelerate
+0x255f66000      102856  libCGInterfaces.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Libraries/libCGInterfaces.dylib
+0x255f80000     3428608  vImage
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+0x2562c6000     7881424  libBLAS.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+0x256af0000    17297264  libBNNS.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBNNS.dylib
+0x257b6f000    18679976  libLAPACK.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+0x258d40000       81344  libLinearAlgebra.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLinearAlgebra.dylib
+0x258d54000       16904  libQuadrature.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libQuadrature.dylib
+0x258d59000     1496536  libSparse.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libSparse.dylib
+0x258ec7000      696136  libSparseBLAS.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libSparseBLAS.dylib
+0x258f71000     1282160  libvDSP.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+0x2590ab000      366752  libvMisc.dylib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+0x259105000        1840  vecLib
+                                /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+0x25921d000      173280  AddressBook
+                                /System/Library/Frameworks/AddressBook.framework/AddressBook
+0x259254000       19520  AppTrackingTransparency
+                                /System/Library/Frameworks/AppTrackingTransparency.framework/AppTrackingTransparency
+0x25962d000      546944  BackgroundAssets
+                                /System/Library/Frameworks/BackgroundAssets.framework/BackgroundAssets
+0x2596b3000       22208  BrowserEngineCore
+                                /System/Library/Frameworks/BrowserEngineCore.framework/BrowserEngineCore
+0x2596b9000      105824  BrowserKit
+                                /System/Library/Frameworks/BrowserKit.framework/BrowserKit
+0x2597cc000      786016  ClassKit
+                                /System/Library/Frameworks/ClassKit.framework/ClassKit
+0x25988c000      658624  ClockKit
+                                /System/Library/Frameworks/ClockKit.framework/ClockKit
+0x259aa3000      833696  CoreMIDI
+                                /System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+0x25a81a000       55520  DataDetection
+                                /System/Library/Frameworks/DataDetection.framework/DataDetection
+0x25a833000       95744  DeveloperToolsSupport
+                                /System/Library/Frameworks/DeveloperToolsSupport.framework/DeveloperToolsSupport
+0x25a84b000      702944  DeviceActivity
+                                /System/Library/Frameworks/DeviceActivity.framework/DeviceActivity
+0x25ab79000      331136  ExposureNotification
+                                /System/Library/Frameworks/ExposureNotification.framework/ExposureNotification
+0x25abca000      123872  ExternalAccessory
+                                /System/Library/Frameworks/ExternalAccessory.framework/ExternalAccessory
+0x25ac3c000       23552  FileProviderOverride
+                                /System/Library/Frameworks/FileProvider.framework/OverrideBundles/FileProviderOverride.bundle/FileProviderOverride
+0x25ac42000       13568  iCloudDriveFileProviderOverride
+                                /System/Library/Frameworks/FileProvider.framework/OverrideBundles/iCloudDriveFileProviderOverride.bundle/iCloudDriveFileProviderOverride
+0x25b187000      187040  GLKit
+                                /System/Library/Frameworks/GLKit.framework/GLKit
+0x25b1b5000      192212  GSS
+                                /System/Library/Frameworks/GSS.framework/GSS
+0x25b2a6000       33408  GeoToolbox
+                                /System/Library/Frameworks/GeoToolbox.framework/GeoToolbox
+0x25b2db000      211744  IdentityLookup
+                                /System/Library/Frameworks/IdentityLookup.framework/IdentityLookup
+0x25b38f000      271360  LightweightCodeRequirements
+                                /System/Library/Frameworks/LightweightCodeRequirements.framework/LightweightCodeRequirements
+0x25b3d2000      344160  LiveCommunicationKit
+                                /System/Library/Frameworks/LiveCommunicationKit.framework/LiveCommunicationKit
+0x25b478000      255328  LocalAuthenticationEmbeddedUI
+                                /System/Library/Frameworks/LocalAuthenticationEmbeddedUI.framework/LocalAuthenticationEmbeddedUI
+0x25b4c7000     1553664  MLCompute
+                                /System/Library/Frameworks/MLCompute.framework/MLCompute
+0x25b66b000    11246400  Matter
+                                /System/Library/Frameworks/Matter.framework/Matter
+0x25c19c000      458592  MetalFX
+                                /System/Library/Frameworks/MetalFX.framework/MetalFX
+0x25c20d000      118240  MPSBenchmarkLoop
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSBenchmarkLoop.framework/MPSBenchmarkLoop
+0x25c22a000       81120  MPSFunctions
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSFunctions.framework/MPSFunctions
+0x25c23e000      601184  MPSImage
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSImage.framework/MPSImage
+0x25c2d1000      172864  MPSMatrix
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSMatrix.framework/MPSMatrix
+0x25c2fc000     1885728  MPSNDArray
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSNDArray.framework/MPSNDArray
+0x25c4c9000     2360384  MPSNeuralNetwork
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSNeuralNetwork.framework/MPSNeuralNetwork
+0x25c70a000      340992  MPSRayIntersector
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSRayIntersector.framework/MPSRayIntersector
+0x25c75e000        3665  MetalPerformanceShaders
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/MetalPerformanceShaders
+0x25c77f000         952  MobileCoreServices
+                                /System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+0x25c780000     1450240  ModelIO
+                                /System/Library/Frameworks/ModelIO.framework/ModelIO
+0x25c8e3000      301536  MultipeerConnectivity
+                                /System/Library/Frameworks/MultipeerConnectivity.framework/MultipeerConnectivity
+0x25c92d000       64224  OSLog
+                                /System/Library/Frameworks/OSLog.framework/OSLog
+0x25c93d000      187320  OpenAL
+                                /System/Library/Frameworks/OpenAL.framework/OpenAL
+0x25ca2f000       38464  OpenGLES
+                                /System/Library/Frameworks/OpenGLES.framework/OpenGLES
+0x25ca39000        4544  libCVMSPluginSupport.dylib
+                                /System/Library/Frameworks/OpenGLES.framework/libCVMSPluginSupport.dylib
+0x25ca3b000       31796  libCoreFSCache.dylib
+                                /System/Library/Frameworks/OpenGLES.framework/libCoreFSCache.dylib
+0x25ca43000       22032  libCoreVMClient.dylib
+                                /System/Library/Frameworks/OpenGLES.framework/libCoreVMClient.dylib
+0x25ca49000       36744  libGFXShared.dylib
+                                /System/Library/Frameworks/OpenGLES.framework/libGFXShared.dylib
+0x25ca52000      222364  libGLImage.dylib
+                                /System/Library/Frameworks/OpenGLES.framework/libGLImage.dylib
+0x25cc28000     3261152  PHASE
+                                /System/Library/Frameworks/PHASE.framework/PHASE
+0x25d02f000       37664  PushKit
+                                /System/Library/Frameworks/PushKit.framework/PushKit
+0x25d043000     1362368  QuickLook
+                                /System/Library/Frameworks/QuickLook.framework/QuickLook
+0x25d190000       34304  RelevanceKit
+                                /System/Library/Frameworks/RelevanceKit.framework/RelevanceKit
+0x25d199000      329344  ReplayKit
+                                /System/Library/Frameworks/ReplayKit.framework/ReplayKit
+0x25d3a3000       39808  ScreenTime
+                                /System/Library/Frameworks/ScreenTime.framework/ScreenTime
+0x25d42f000      559424  Translation
+                                /System/Library/Frameworks/Translation.framework/Translation
+0x25d4c3000        1304  UIKit
+                                /System/Library/Frameworks/UIKit.framework/UIKit
+0x25d6a8000     6365088  libfaceCore.dylib
+                                /System/Library/Frameworks/Vision.framework/libfaceCore.dylib
+0x25dcba000      150112  VisionKit
+                                /System/Library/Frameworks/VisionKit.framework/VisionKit
+0x25e08f000       38912  _AVKit_SwiftUI
+                                /System/Library/Frameworks/_AVKit_SwiftUI.framework/_AVKit_SwiftUI
+0x25e09d000       86784  _AuthenticationServices_SwiftUI
+                                /System/Library/Frameworks/_AuthenticationServices_SwiftUI.framework/_AuthenticationServices_SwiftUI
+0x25e0f5000       45856  _GeoToolbox_AppIntents
+                                /System/Library/Frameworks/_GeoToolbox_AppIntents.framework/_GeoToolbox_AppIntents
+0x25e241000       40576  _QuickLook_SwiftUI
+                                /System/Library/Frameworks/_QuickLook_SwiftUI.framework/_QuickLook_SwiftUI
+0x25eec7000       43456  AFKUser
+                                /System/Library/PrivateFrameworks/AFKUser.framework/AFKUser
+0x25ef97000       74112  AIMLExperimentationAnalytics
+                                /System/Library/PrivateFrameworks/AIMLExperimentationAnalytics.framework/AIMLExperimentationAnalytics
+0x25f37b000        4952  ANEClientSignals
+                                /System/Library/PrivateFrameworks/ANEClientSignals.framework/ANEClientSignals
+0x25fcd7000      446860  APFS
+                                /System/Library/PrivateFrameworks/APFS.framework/APFS
+0x25fe46000        9344  ARKitFoundation
+                                /System/Library/PrivateFrameworks/ARKitFoundation.framework/ARKitFoundation
+0x25fe49000      285024  ARKitUI
+                                /System/Library/PrivateFrameworks/ARKitUI.framework/ARKitUI
+0x25fe8f000      146304  ASEProcessing
+                                /System/Library/PrivateFrameworks/ASEProcessing.framework/ASEProcessing
+0x25ff22000      259680  ICE
+                                /System/Library/PrivateFrameworks/AVConference.framework/Frameworks/ICE.framework/ICE
+0x25ff62000        3544  LegacyHandle
+                                /System/Library/PrivateFrameworks/AVConference.framework/Frameworks/LegacyHandle.framework/LegacyHandle
+0x25ff63000       27992  SimpleKeyExchange
+                                /System/Library/PrivateFrameworks/AVConference.framework/Frameworks/SimpleKeyExchange.framework/SimpleKeyExchange
+0x25ff6a000     1058656  ViceroyTrace
+                                /System/Library/PrivateFrameworks/AVConference.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace
+0x26006d000        3752  snatmap
+                                /System/Library/PrivateFrameworks/AVConference.framework/Frameworks/snatmap.framework/snatmap
+0x2606da000       28416  AccessorySensorManagerServices
+                                /System/Library/PrivateFrameworks/AccessorySensorManagerServices.framework/AccessorySensorManagerServices
+0x260858000       63936  AcousticMaterials
+                                /System/Library/PrivateFrameworks/AcousticMaterials.framework/AcousticMaterials
+0x26134a000        4416  AggregateDictionary
+                                /System/Library/PrivateFrameworks/AggregateDictionary.framework/AggregateDictionary
+0x26169c000      130176  AirPlayRoutePrediction
+                                /System/Library/PrivateFrameworks/AirPlayRoutePrediction.framework/AirPlayRoutePrediction
+0x2618cc000      147520  AlchemistBase
+                                /System/Library/PrivateFrameworks/AlchemistBase.framework/AlchemistBase
+0x2618f1000      493728  AlchemistService
+                                /System/Library/PrivateFrameworks/AlchemistService.framework/AlchemistService
+0x26196a000      434208  AltruisticBodyPoseKit
+                                /System/Library/PrivateFrameworks/AltruisticBodyPoseKit.framework/AltruisticBodyPoseKit
+0x261c32000     9867136  AppC3D
+                                /System/Library/PrivateFrameworks/AppC3D.framework/AppC3D
+0x26259b000      202496  AppConduit
+                                /System/Library/PrivateFrameworks/AppConduit.framework/AppConduit
+0x2628f7000       51744  AppServerSupport
+                                /System/Library/PrivateFrameworks/AppServerSupport.framework/AppServerSupport
+0x262931000       74528  AppStoreFoundation
+                                /System/Library/PrivateFrameworks/AppStoreFoundation.framework/AppStoreFoundation
+0x262944000       52832  AppStoreOverlays
+                                /System/Library/PrivateFrameworks/AppStoreOverlays.framework/AppStoreOverlays
+0x262c12000      301568  AppleCV3DMOVKit
+                                /System/Library/PrivateFrameworks/AppleCV3DMOVKit.framework/AppleCV3DMOVKit
+0x262c5c000       40896  AppleCV3DModels
+                                /System/Library/PrivateFrameworks/AppleCV3DModels.framework/AppleCV3DModels
+0x262c66000      844896  AppleCVA
+                                /System/Library/PrivateFrameworks/AppleCVA.framework/AppleCVA
+0x262da1000     1536384  AppleDepth
+                                /System/Library/PrivateFrameworks/AppleDepth.framework/AppleDepth
+0x262f19000      536352  AppleDepthCore
+                                /System/Library/PrivateFrameworks/AppleDepthCore.framework/AppleDepthCore
+0x262fd6000       45672  AppleFSCompression
+                                /System/Library/PrivateFrameworks/AppleFSCompression.framework/AppleFSCompression
+0x262ff9000      107168  AppleFlatBuffers
+                                /System/Library/PrivateFrameworks/AppleFlatBuffers.framework/AppleFlatBuffers
+0x263026000       52640  AppleIDAuthSupport
+                                /System/Library/PrivateFrameworks/AppleIDAuthSupport.framework/AppleIDAuthSupport
+0x2635ff000      287928  AppleJPEG
+                                /System/Library/PrivateFrameworks/AppleJPEG.framework/AppleJPEG
+0x263646000     1895136  AppleJPEGXL
+                                /System/Library/PrivateFrameworks/AppleJPEGXL.framework/AppleJPEGXL
+0x263824000       82616  AppleMSG
+                                /System/Library/PrivateFrameworks/AppleMSG.framework/AppleMSG
+0x263a7f000       68672  AppleMobileFileIntegrity
+                                /System/Library/PrivateFrameworks/AppleMobileFileIntegrity.framework/AppleMobileFileIntegrity
+0x263a9d000       24388  ApplePhotonDetectorServices
+                                /System/Library/PrivateFrameworks/ApplePhotonDetectorServices.framework/ApplePhotonDetectorServices
+0x263aa7000       21748  AppleSRP
+                                /System/Library/PrivateFrameworks/AppleSRP.framework/AppleSRP
+0x263aad000      147176  AppleSauce
+                                /System/Library/PrivateFrameworks/AppleSauce.framework/AppleSauce
+0x263b77000      504824  ArgumentParserInternal
+                                /System/Library/PrivateFrameworks/ArgumentParserInternal.framework/ArgumentParserInternal
+0x263c0f000      590176  AskToCore
+                                /System/Library/PrivateFrameworks/AskToCore.framework/AskToCore
+0x263d9a000      123776  AssetCacheServices
+                                /System/Library/PrivateFrameworks/AssetCacheServices.framework/AssetCacheServices
+0x264127000       26656  AudioAccessoryAssetManagement
+                                /System/Library/PrivateFrameworks/AudioAccessoryAssetManagement.framework/AudioAccessoryAssetManagement
+0x26412e000      484608  AudioAccessoryServices
+                                /System/Library/PrivateFrameworks/AudioAccessoryServices.framework/AudioAccessoryServices
+0x2641c6000       49184  AudioDataAnalysis
+                                /System/Library/PrivateFrameworks/AudioDataAnalysis.framework/AudioDataAnalysis
+0x264213000      535968  AudioServerDriver
+                                /System/Library/PrivateFrameworks/AudioServerDriver.framework/AudioServerDriver
+0x26450e000       71264  AutoFillCore
+                                /System/Library/PrivateFrameworks/AutoFillCore.framework/AutoFillCore
+0x264604000      353792  AutoLoop
+                                /System/Library/PrivateFrameworks/AutoLoop.framework/AutoLoop
+0x264663000       12224  AvailabilityKit
+                                /System/Library/PrivateFrameworks/AvailabilityKit.framework/AvailabilityKit
+0x264865000      100832  BiomeDSL
+                                /System/Library/PrivateFrameworks/BiomeDSL.framework/BiomeDSL
+0x26487e000       22560  BiomeSync
+                                /System/Library/PrivateFrameworks/BiomeSync.framework/BiomeSync
+0x264930000       35904  BlockMonitoring
+                                /System/Library/PrivateFrameworks/BlockMonitoring.framework/BlockMonitoring
+0x264947000       96800  BluetoothManager
+                                /System/Library/PrivateFrameworks/BluetoothManager.framework/BluetoothManager
+0x264991000      467872  Bom
+                                /System/Library/PrivateFrameworks/Bom.framework/Bom
+0x264b8c000      300224  BrailleTranslation
+                                /System/Library/PrivateFrameworks/BrailleTranslation.framework/BrailleTranslation
+0x264c98000       16352  BrowserSupportKit
+                                /System/Library/PrivateFrameworks/BrowserSupportKit.framework/BrowserSupportKit
+0x264f17000      367264  C2
+                                /System/Library/PrivateFrameworks/C2.framework/C2
+0x26531d000       66016  CMCaptureCore
+                                /System/Library/PrivateFrameworks/CMCaptureCore.framework/CMCaptureCore
+0x26532e000        7772  CMCaptureDevice
+                                /System/Library/PrivateFrameworks/CMCaptureDevice.framework/CMCaptureDevice
+0x2653fb000      135360  CPAnalytics
+                                /System/Library/PrivateFrameworks/CPAnalytics.framework/CPAnalytics
+0x26541f000       43328  CPMS
+                                /System/Library/PrivateFrameworks/CPMS.framework/CPMS
+0x26542a000       54592  CSExattrCrypto
+                                /System/Library/PrivateFrameworks/CSExattrCrypto.framework/CSExattrCrypto
+0x265438000      651488  CTBlastDoorSupport
+                                /System/Library/PrivateFrameworks/CTBlastDoorSupport.framework/CTBlastDoorSupport
+0x2654d8000       69952  CTCarrierSpace
+                                /System/Library/PrivateFrameworks/CTCarrierSpace.framework/CTCarrierSpace
+0x2654ea000      376896  CTLazuliSupport
+                                /System/Library/PrivateFrameworks/CTLazuliSupport.framework/CTLazuliSupport
+0x265547000      387360  CalDAV
+                                /System/Library/PrivateFrameworks/CalDAV.framework/CalDAV
+0x2655cd000     1295680  CalendarLink
+                                /System/Library/PrivateFrameworks/CalendarLink.framework/CalendarLink
+0x265830000       56672  CallsPersistence
+                                /System/Library/PrivateFrameworks/CallsPersistence.framework/CallsPersistence
+0x26583e000       40480  CallsUtilities
+                                /System/Library/PrivateFrameworks/CallsUtilities.framework/CallsUtilities
+0x265848000      129298  CallsXPC
+                                /System/Library/PrivateFrameworks/CallsXPC.framework/CallsXPC
+0x265a1c000       52160  CaptiveNetwork
+                                /System/Library/PrivateFrameworks/CaptiveNetwork.framework/CaptiveNetwork
+0x265f48000      132384  CarPlayServices
+                                /System/Library/PrivateFrameworks/CarPlayServices.framework/CarPlayServices
+0x2662c3000      566848  Catalyst
+                                /System/Library/PrivateFrameworks/Catalyst.framework/Catalyst
+0x26634e000       71904  Categories
+                                /System/Library/PrivateFrameworks/Categories.framework/Categories
+0x266360000       10496  Celestial
+                                /System/Library/PrivateFrameworks/Celestial.framework/Celestial
+0x266390000      125088  CellularPlanManager
+                                /System/Library/PrivateFrameworks/CellularPlanManager.framework/CellularPlanManager
+0x2663af000       23232  Centauri
+                                /System/Library/PrivateFrameworks/Centauri.framework/Centauri
+0x26640e000       32896  CertUI
+                                /System/Library/PrivateFrameworks/CertUI.framework/CertUI
+0x266425000      114421  Chirp
+                                /System/Library/PrivateFrameworks/Chirp.framework/Chirp
+0x266471000      372256  ChunkingLibrary
+                                /System/Library/PrivateFrameworks/ChunkingLibrary.framework/ChunkingLibrary
+0x26650f000      234240  CinematicFraming
+                                /System/Library/PrivateFrameworks/CinematicFraming.framework/CinematicFraming
+0x266893000      220768  CloudKitCode
+                                /System/Library/PrivateFrameworks/CloudKitCode.framework/CloudKitCode
+0x2669f5000       53504  CloudPhotoServices
+                                /System/Library/PrivateFrameworks/CloudPhotoServices.framework/CloudPhotoServices
+0x266b17000       50368  CloudSettings
+                                /System/Library/PrivateFrameworks/CloudSettings.framework/CloudSettings
+0x266bd5000      149536  CollectionViewCore
+                                /System/Library/PrivateFrameworks/CollectionViewCore.framework/CollectionViewCore
+0x266c10000       31180  CommonAuth
+                                /System/Library/PrivateFrameworks/CommonAuth.framework/CommonAuth
+0x266c18000       28096  CommunicationsFilter
+                                /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CommunicationsFilter
+0x2673b3000     1118464  ConfigurationEngineModel
+                                /System/Library/PrivateFrameworks/ConfigurationEngineModel.framework/ConfigurationEngineModel
+0x2674ce000       13152  ConstantClasses
+                                /System/Library/PrivateFrameworks/ConstantClasses.framework/ConstantClasses
+0x2676db000       15680  ContactsMetrics
+                                /System/Library/PrivateFrameworks/ContactsMetrics.framework/ContactsMetrics
+0x2676e6000       20096  ContextKitCore
+                                /System/Library/PrivateFrameworks/ContextKitCore.framework/ContextKitCore
+0x267a41000    22690304  CoreALD
+                                /System/Library/PrivateFrameworks/CoreALD.framework/CoreALD
+0x268fe5000       72864  CoreAUC
+                                /System/Library/PrivateFrameworks/CoreAUC.framework/CoreAUC
+0x268ffb000      419296  CoreAppleCVA
+                                /System/Library/PrivateFrameworks/CoreAppleCVA.framework/CoreAppleCVA
+0x269308000      521152  CoreDAV
+                                /System/Library/PrivateFrameworks/CoreDAV.framework/CoreDAV
+0x269388000        8736  CoreDuetDaemonProtocol
+                                /System/Library/PrivateFrameworks/CoreDuetDaemonProtocol.framework/CoreDuetDaemonProtocol
+0x26961c000      364032  CoreIDCred
+                                /System/Library/PrivateFrameworks/CoreIDCred.framework/CoreIDCred
+0x2699a1000      727277  CoreIK
+                                /System/Library/PrivateFrameworks/CoreIK.framework/CoreIK
+0x269b73000      173184  CoreLocationReplay
+                                /System/Library/PrivateFrameworks/CoreLocationReplay.framework/CoreLocationReplay
+0x269bcb000     1130144  CoreMediaStream
+                                /System/Library/PrivateFrameworks/CoreMediaStream.framework/CoreMediaStream
+0x269ee3000     1327040  CoreOC
+                                /System/Library/PrivateFrameworks/CoreOC.framework/CoreOC
+0x26a027000      577600  CoreOCModules
+                                /System/Library/PrivateFrameworks/CoreOCModules.framework/CoreOCModules
+0x26a0b5000      383552  CoreODI
+                                /System/Library/PrivateFrameworks/CoreODI.framework/CoreODI
+0x26a113000       20128  CoreOptimization
+                                /System/Library/PrivateFrameworks/CoreOptimization.framework/CoreOptimization
+0x26a118000        1176  CorePDF
+                                /System/Library/PrivateFrameworks/CorePDF.framework/CorePDF
+0x26a119000       61617  CorePhoneNumbers
+                                /System/Library/PrivateFrameworks/CorePhoneNumbers.framework/CorePhoneNumbers
+0x26a129000    17616864  CorePhotogrammetry
+                                /System/Library/PrivateFrameworks/CorePhotogrammetry.framework/CorePhotogrammetry
+0x26b1f6000      356768  CorePrediction
+                                /System/Library/PrivateFrameworks/CorePrediction.framework/CorePrediction
+0x26b325000      567712  CoreRE3DGSFoundation
+                                /System/Library/PrivateFrameworks/CoreRE3DGSFoundation.framework/CoreRE3DGSFoundation
+0x26b458000     3411232  CoreRealityIO
+                                /System/Library/PrivateFrameworks/CoreRealityIO.framework/CoreRealityIO
+0x26b799000       90240  CoreRecents
+                                /System/Library/PrivateFrameworks/CoreRecents.framework/CoreRecents
+0x26b7b0000      509728  CoreRecognition
+                                /System/Library/PrivateFrameworks/CoreRecognition.framework/CoreRecognition
+0x26b86f000       85120  CoreSDB
+                                /System/Library/PrivateFrameworks/CoreSDB.framework/CoreSDB
+0x26bb5b000      164108  CoreUtilsExtras
+                                /System/Library/PrivateFrameworks/CoreUtilsExtras.framework/CoreUtilsExtras
+0x26bdfd000       45856  CrashReporterSupport
+                                /System/Library/PrivateFrameworks/CrashReporterSupport.framework/CrashReporterSupport
+0x26be10000       15520  CryptoKitCBridging
+                                /System/Library/PrivateFrameworks/CryptoKitCBridging.framework/CryptoKitCBridging
+0x26be14000       19392  DAAPKit
+                                /System/Library/PrivateFrameworks/DAAPKit.framework/DAAPKit
+0x26be42000       42304  DEPClientLibrary
+                                /System/Library/PrivateFrameworks/DEPClientLibrary.framework/DEPClientLibrary
+0x26be4d000      299392  DMCEnrollmentLibrary
+                                /System/Library/PrivateFrameworks/DMCEnrollmentLibrary.framework/DMCEnrollmentLibrary
+0x26c532000      424576  DataAccess
+                                /System/Library/PrivateFrameworks/DataAccess.framework/DataAccess
+0x26c8f7000        4908  DefaultAppsSettings
+                                /System/Library/PrivateFrameworks/DefaultAppsSettings.framework/DefaultAppsSettings
+0x26ca89000      157568  DeviceRecovery
+                                /System/Library/PrivateFrameworks/DeviceRecovery.framework/DeviceRecovery
+0x26cc03000      146112  DiagnosticExtensions
+                                /System/Library/PrivateFrameworks/DiagnosticExtensions.framework/DiagnosticExtensions
+0x26cc27000      733408  DiagnosticExtensionsDaemon
+                                /System/Library/PrivateFrameworks/DiagnosticExtensionsDaemon.framework/DiagnosticExtensionsDaemon
+0x26ccdd000       98784  DiagnosticRequest
+                                /System/Library/PrivateFrameworks/DiagnosticRequest.framework/DiagnosticRequest
+0x26cd50000      329088  DigitalAccess
+                                /System/Library/PrivateFrameworks/DigitalAccess.framework/DigitalAccess
+0x26ceb8000      121408  DirectResource
+                                /System/Library/PrivateFrameworks/DirectResource.framework/DirectResource
+0x26d3f2000     1008352  DocumentCamera
+                                /System/Library/PrivateFrameworks/DocumentCamera.framework/DocumentCamera
+0x26d4e9000      460672  DocumentManagerCore
+                                /System/Library/PrivateFrameworks/DocumentManagerCore.framework/DocumentManagerCore
+0x26e0d4000      257664  EAP8021X
+                                /System/Library/PrivateFrameworks/EAP8021X.framework/EAP8021X
+0x26e183000       46976  EmailAddressing
+                                /System/Library/PrivateFrameworks/EmailAddressing.framework/EmailAddressing
+0x26e1b8000       92896  Engram
+                                /System/Library/PrivateFrameworks/Engram.framework/Engram
+0x26e1cf000      115872  EnhancedLogging
+                                /System/Library/PrivateFrameworks/EnhancedLogging.framework/EnhancedLogging
+0x26e1ec000       72864  EnhancedLoggingState
+                                /System/Library/PrivateFrameworks/EnhancedLoggingState.framework/EnhancedLoggingState
+0x26eab4000      395072  FRC
+                                /System/Library/PrivateFrameworks/FRC.framework/FRC
+0x26eb15000       50292  FSEvents
+                                /System/Library/PrivateFrameworks/FSEvents.framework/FSEvents
+0x26eb8a000      120768  FTAWD
+                                /System/Library/PrivateFrameworks/FTAWD.framework/FTAWD
+0x26eba8000       13440  FTClientServices
+                                /System/Library/PrivateFrameworks/FTClientServices.framework/FTClientServices
+0x26ebb9000        4928  FaceTimeNameUtility
+                                /System/Library/PrivateFrameworks/FaceTimeNameUtility.framework/FaceTimeNameUtility
+0x26ecf2000        2708  FeatureFlags
+                                /System/Library/PrivateFrameworks/FeatureFlags.framework/FeatureFlags
+0x26ecf3000       78912  FeatureFlagsSupport
+                                /System/Library/PrivateFrameworks/FeatureFlagsSupport.framework/FeatureFlagsSupport
+0x26edad000      201088  FeedbackLogger
+                                /System/Library/PrivateFrameworks/FeedbackLogger.framework/FeedbackLogger
+0x26eff2000      108768  FindMyCommon
+                                /System/Library/PrivateFrameworks/FindMyCommon.framework/FindMyCommon
+0x26fb0a000      292128  FlexMusicKit
+                                /System/Library/PrivateFrameworks/FlexMusicKit.framework/FlexMusicKit
+0x26fb6c000      110656  FlightUtilitiesCore
+                                /System/Library/PrivateFrameworks/FlightUtilitiesCore.framework/FlightUtilitiesCore
+0x26fe99000      488032  libGSFontCache.dylib
+                                /System/Library/PrivateFrameworks/FontServices.framework/libGSFontCache.dylib
+0x26ff4d000       51360  FramePacing
+                                /System/Library/PrivateFrameworks/FramePacing.framework/FramePacing
+0x26ff71000      307328  FusionTracker
+                                /System/Library/PrivateFrameworks/FusionTracker.framework/FusionTracker
+0x26ffc0000     4617696  GESS
+                                /System/Library/PrivateFrameworks/GESS.framework/GESS
+0x27184f000       24232  libGPUCompilerUtils.dylib
+                                /System/Library/PrivateFrameworks/GPUCompiler.framework/Libraries/libGPUCompilerUtils.dylib
+0x271855000       15456  GPURawCounter
+                                /System/Library/PrivateFrameworks/GPURawCounter.framework/GPURawCounter
+0x271ed2000      649684  GRPCCoreInternal
+                                /System/Library/PrivateFrameworks/GRPCCoreInternal.framework/GRPCCoreInternal
+0x271f81000      168216  GRPCProtobufInternal
+                                /System/Library/PrivateFrameworks/GRPCProtobufInternal.framework/GRPCProtobufInternal
+0x271fab000      316544  GRPCURLSessionTransportInternal
+                                /System/Library/PrivateFrameworks/GRPCURLSessionTransportInternal.framework/GRPCURLSessionTransportInternal
+0x272875000       72576  GameControllerSettings
+                                /System/Library/PrivateFrameworks/GameControllerSettings.framework/GameControllerSettings
+0x27430c000      137760  GenerationalStorage
+                                /System/Library/PrivateFrameworks/GenerationalStorage.framework/GenerationalStorage
+0x2744f7000      316903  GenerativeFunctions
+                                /System/Library/PrivateFrameworks/GenerativeFunctions.framework/GenerativeFunctions
+0x274570000     1387600  Geometry
+                                /System/Library/PrivateFrameworks/Geometry.framework/Geometry
+0x2746f1000     6861248  GraphComputeRT
+                                /System/Library/PrivateFrameworks/GraphComputeRT.framework/GraphComputeRT
+0x274d7d000       63008  GraphVisualizer
+                                /System/Library/PrivateFrameworks/GraphVisualizer.framework/GraphVisualizer
+0x274d9b000       87932  H10ISPServices
+                                /System/Library/PrivateFrameworks/H10ISPServices.framework/H10ISPServices
+0x274f4f000       24160  HSAAuthentication
+                                /System/Library/PrivateFrameworks/HSAAuthentication.framework/HSAAuthentication
+0x27693d000      485312  Heimdal
+                                /System/Library/PrivateFrameworks/Heimdal.framework/Heimdal
+0x2769b4000      289408  HelpKit
+                                /System/Library/PrivateFrameworks/HelpKit.framework/HelpKit
+0x27773d000     1404320  HomeKitClips
+                                /System/Library/PrivateFrameworks/HomeKitClips.framework/HomeKitClips
+0x2789c1000      148736  HomeKitEventRouter
+                                /System/Library/PrivateFrameworks/HomeKitEventRouter.framework/HomeKitEventRouter
+0x278b3b000        1388  HomeKitFeatures
+                                /System/Library/PrivateFrameworks/HomeKitFeatures.framework/HomeKitFeatures
+0x278ccd000      642432  HomeSharing
+                                /System/Library/PrivateFrameworks/HomeSharing.framework/HomeSharing
+0x2790d2000      117792  IAP
+                                /System/Library/PrivateFrameworks/IAP.framework/IAP
+0x279154000       23776  IDSKVStore
+                                /System/Library/PrivateFrameworks/IDSKVStore.framework/IDSKVStore
+0x279298000       34976  IMTransferServices
+                                /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferServices
+0x2792a1000      390368  IO80211
+                                /System/Library/PrivateFrameworks/IO80211.framework/IO80211
+0x279301000       34976  IOAccelMemoryInfo
+                                /System/Library/PrivateFrameworks/IOAccelMemoryInfo.framework/IOAccelMemoryInfo
+0x27930a000       25376  IOAccelerator
+                                /System/Library/PrivateFrameworks/IOAccelerator.framework/IOAccelerator
+0x279356000       23264  IOFastPath
+                                /System/Library/PrivateFrameworks/IOFastPath.framework/IOFastPath
+0x27935d000       39232  IOKitten
+                                /System/Library/PrivateFrameworks/IOKitten.framework/IOKitten
+0x279367000       19464  IOSurfaceAccelerator
+                                /System/Library/PrivateFrameworks/IOSurfaceAccelerator.framework/IOSurfaceAccelerator
+0x27938f000       42720  IPConfiguration
+                                /System/Library/PrivateFrameworks/IPConfiguration.framework/IPConfiguration
+0x2794f2000       40032  IdleTimerServices
+                                /System/Library/PrivateFrameworks/IdleTimerServices.framework/IdleTimerServices
+0x279554000       24096  IncomingCallFilter
+                                /System/Library/PrivateFrameworks/IncomingCallFilter.framework/IncomingCallFilter
+0x27955a000      483808  InertiaCam
+                                /System/Library/PrivateFrameworks/InertiaCam.framework/InertiaCam
+0x279c85000      169344  IntentsCore
+                                /System/Library/PrivateFrameworks/IntentsCore.framework/IntentsCore
+0x279caf000       64832  IntentsFoundation
+                                /System/Library/PrivateFrameworks/IntentsFoundation.framework/IntentsFoundation
+0x279cdd000       11968  InternationalTextSearch
+                                /System/Library/PrivateFrameworks/InternationalTextSearch.framework/InternationalTextSearch
+0x279cf9000      172160  IsolatedCoreAudioClient
+                                /System/Library/PrivateFrameworks/IsolatedCoreAudioClient.framework/IsolatedCoreAudioClient
+0x279d9c000      113536  Jet
+                                /System/Library/PrivateFrameworks/Jet.framework/Jet
+0x279db8000      113472  JetPack
+                                /System/Library/PrivateFrameworks/JetPack.framework/JetPack
+0x279f13000      215008  KernelManagerLibrary
+                                /System/Library/PrivateFrameworks/KernelManagerLibrary.framework/KernelManagerLibrary
+0x27a19b000       85880  LACC
+                                /System/Library/PrivateFrameworks/LACC.framework/LACC
+0x27a1e5000      130364  LatentSemanticMapping
+                                /System/Library/PrivateFrameworks/LatentSemanticMapping.framework/LatentSemanticMapping
+0x27a205000     2527104  LearnedFeatures
+                                /System/Library/PrivateFrameworks/LearnedFeatures.framework/LearnedFeatures
+0x27a551000     1412736  LiftUI
+                                /System/Library/PrivateFrameworks/LiftUI.framework/LiftUI
+0x27a79d000       25408  LinguisticData
+                                /System/Library/PrivateFrameworks/LinguisticData.framework/LinguisticData
+0x27a7a4000      192149  LinkPresentationStyleSheetParsing
+                                /System/Library/PrivateFrameworks/LinkPresentationStyleSheetParsing.framework/LinkPresentationStyleSheetParsing
+0x27a855000      271904  LiveTranscription
+                                /System/Library/PrivateFrameworks/LiveTranscription.framework/LiveTranscription
+0x27a898000      498560  LocalAuthenticationCoreUI
+                                /System/Library/PrivateFrameworks/LocalAuthenticationCoreUI.framework/LocalAuthenticationCoreUI
+0x27a912000      127200  LocalAuthenticationCredentialServices
+                                /System/Library/PrivateFrameworks/LocalAuthenticationCredentialServices.framework/LocalAuthenticationCredentialServices
+0x27a93b000      297824  LocalAuthenticationPrivateUI
+                                /System/Library/PrivateFrameworks/LocalAuthenticationPrivateUI.framework/LocalAuthenticationPrivateUI
+0x27a9b2000      147232  LocalStatusKit
+                                /System/Library/PrivateFrameworks/LocalStatusKit.framework/LocalStatusKit
+0x27a9da000       17728  LocationLogEncryption
+                                /System/Library/PrivateFrameworks/LocationLogEncryption.framework/LocationLogEncryption
+0x27aba1000      364792  MLCompilerRuntime
+                                /System/Library/PrivateFrameworks/MLCompilerRuntime.framework/MLCompilerRuntime
+0x27abfb000      104224  MLCompilerServices
+                                /System/Library/PrivateFrameworks/MLCompilerServices.framework/MLCompilerServices
+0x27d845000     3660256  MLModelSpecification
+                                /System/Library/PrivateFrameworks/MLModelSpecification.framework/MLModelSpecification
+0x27dbd0000      700640  MMCS
+                                /System/Library/PrivateFrameworks/MMCS.framework/MMCS
+0x27dc7c000      976128  MOVStreamIO
+                                /System/Library/PrivateFrameworks/MOVStreamIO.framework/MOVStreamIO
+0x27df04000       21024  MXUIServiceClient
+                                /System/Library/PrivateFrameworks/MXUIServiceClient.framework/MXUIServiceClient
+0x27e36b000      163104  MailKit
+                                /System/Library/PrivateFrameworks/MailKit.framework/MailKit
+0x27e393000      219520  MailSupport
+                                /System/Library/PrivateFrameworks/MailSupport.framework/MailSupport
+0x27e4dc000      149088  ManagedBackgroundAssets
+                                /System/Library/PrivateFrameworks/ManagedBackgroundAssets.framework/ManagedBackgroundAssets
+0x27e547000       22944  ManagedOrganizationContacts
+                                /System/Library/PrivateFrameworks/ManagedOrganizationContacts.framework/ManagedOrganizationContacts
+0x27e54d000       42784  ManagedSettingsSupport
+                                /System/Library/PrivateFrameworks/ManagedSettingsSupport.framework/ManagedSettingsSupport
+0x27e624000        1832  Marco
+                                /System/Library/PrivateFrameworks/Marco.framework/Marco
+0x27e889000       11008  MediaAnalysisGeneration
+                                /System/Library/PrivateFrameworks/MediaAnalysisGeneration.framework/MediaAnalysisGeneration
+0x27e88c000       13504  MediaAnalysisPhotosServices
+                                /System/Library/PrivateFrameworks/MediaAnalysisPhotosServices.framework/MediaAnalysisPhotosServices
+0x27ea2d000      205120  MediaConversionService
+                                /System/Library/PrivateFrameworks/MediaConversionService.framework/MediaConversionService
+0x27eb8a000       69024  MediaSafetyNet
+                                /System/Library/PrivateFrameworks/MediaSafetyNet.framework/MediaSafetyNet
+0x27eb9c000      144960  MediaStream
+                                /System/Library/PrivateFrameworks/MediaStream.framework/MediaStream
+0x27f113000      386496  MessageSecurity
+                                /System/Library/PrivateFrameworks/MessageSecurity.framework/MessageSecurity
+0x28036d000       89696  MobileActivation
+                                /System/Library/PrivateFrameworks/MobileActivation.framework/MobileActivation
+0x2803b1000       63456  MobileIcons
+                                /System/Library/PrivateFrameworks/MobileIcons.framework/MobileIcons
+0x28046b000        7872  MobileObliteration
+                                /System/Library/PrivateFrameworks/MobileObliteration.framework/MobileObliteration
+0x2804a1000      316864  MobileStoreDemoKit
+                                /System/Library/PrivateFrameworks/MobileStoreDemoKit.framework/MobileStoreDemoKit
+0x28094e000       28704  MobileSystemServices
+                                /System/Library/PrivateFrameworks/MobileSystemServices.framework/MobileSystemServices
+0x28099b000      235296  MobileWiFi
+                                /System/Library/PrivateFrameworks/MobileWiFi.framework/MobileWiFi
+0x2824bd000       47964  Netrb
+                                /System/Library/PrivateFrameworks/Netrb.framework/Netrb
+0x282692000      149504  NetworkScore
+                                /System/Library/PrivateFrameworks/NetworkScore.framework/NetworkScore
+0x282b3d000       62464  NewsFoundation
+                                /System/Library/PrivateFrameworks/NewsFoundation.framework/NewsFoundation
+0x282c0f000     3521088  NewsTransport
+                                /System/Library/PrivateFrameworks/NewsTransport.framework/NewsTransport
+0x282fd0000       30624  NewsURLBucket
+                                /System/Library/PrivateFrameworks/NewsURLBucket.framework/NewsURLBucket
+0x283346000      146624  Notes
+                                /System/Library/PrivateFrameworks/Notes.framework/Notes
+0x283466000       12224  OAuth
+                                /System/Library/PrivateFrameworks/OAuth.framework/OAuth
+0x283551000       33600  OSAServicesClient
+                                /System/Library/PrivateFrameworks/OSAServicesClient.framework/OSAServicesClient
+0x28355a000       22368  OSASubmissionClient
+                                /System/Library/PrivateFrameworks/OSASubmissionClient.framework/OSASubmissionClient
+0x283562000      150784  OSAnalyticsPrivate
+                                /System/Library/PrivateFrameworks/OSAnalyticsPrivate.framework/OSAnalyticsPrivate
+0x283587000      172096  OSEligibility
+                                /System/Library/PrivateFrameworks/OSEligibility.framework/OSEligibility
+0x2835df000      259360  OTSVG
+                                /System/Library/PrivateFrameworks/OTSVG.framework/OTSVG
+0x2843db000      556448  Osprey
+                                /System/Library/PrivateFrameworks/Osprey.framework/Osprey
+0x284595000     1148768  ParsingInternal
+                                /System/Library/PrivateFrameworks/ParsingInternal.framework/ParsingInternal
+0x28475c000      243168  Pasteboard
+                                /System/Library/PrivateFrameworks/Pasteboard.framework/Pasteboard
+0x284a22000      231744  PersistentConnection
+                                /System/Library/PrivateFrameworks/PersistentConnection.framework/PersistentConnection
+0x284a5b000       52544  PersonaKit
+                                /System/Library/PrivateFrameworks/PersonaKit.framework/PersonaKit
+0x284a68000       64352  PersonaUI
+                                /System/Library/PrivateFrameworks/PersonaUI.framework/PersonaUI
+0x284b55000        4320  PhoneNumbers
+                                /System/Library/PrivateFrameworks/PhoneNumbers.framework/PhoneNumbers
+0x284bf5000      218656  PhotosImagingFoundation
+                                /System/Library/PrivateFrameworks/PhotosImagingFoundation.framework/PhotosImagingFoundation
+0x284c2b000      362752  PhotosIntelligenceCore
+                                /System/Library/PrivateFrameworks/PhotosIntelligenceCore.framework/PhotosIntelligenceCore
+0x284c9a000       24384  PhotosMediaFoundation
+                                /System/Library/PrivateFrameworks/PhotosMediaFoundation.framework/PhotosMediaFoundation
+0x284ca0000      310720  PhotosPlayer
+                                /System/Library/PrivateFrameworks/PhotosPlayer.framework/PhotosPlayer
+0x284dca000      134368  PhotosensitivityProcessing
+                                /System/Library/PrivateFrameworks/PhotosensitivityProcessing.framework/PhotosensitivityProcessing
+0x284deb000      300288  PhysicsKit
+                                /System/Library/PrivateFrameworks/PhysicsKit.framework/PhysicsKit
+0x28506f000     1964608  Polaris
+                                /System/Library/PrivateFrameworks/Polaris.framework/Polaris
+0x28524f000      514176  PolarisBufferService
+                                /System/Library/PrivateFrameworks/PolarisBufferService.framework/PolarisBufferService
+0x28532a000      244960  PolarisGraph
+                                /System/Library/PrivateFrameworks/PolarisGraph.framework/PolarisGraph
+0x285366000      105376  PolarisRuntime
+                                /System/Library/PrivateFrameworks/PolarisRuntime.framework/PolarisRuntime
+0x285381000       83840  PolarisSystemGraph
+                                /System/Library/PrivateFrameworks/PolarisSystemGraph.framework/PolarisSystemGraph
+0x285d40000      466752  PrintKit
+                                /System/Library/PrivateFrameworks/PrintKit.framework/PrintKit
+0x285db2000      646592  PrintKitUI
+                                /System/Library/PrivateFrameworks/PrintKitUI.framework/PrintKitUI
+0x287621000       31008  ProgressUI
+                                /System/Library/PrivateFrameworks/ProgressUI.framework/ProgressUI
+0x2876f2000       77600  PrototypeToolsUI
+                                /System/Library/PrivateFrameworks/PrototypeToolsUI.framework/PrototypeToolsUI
+0x287705000      210080  ProxCardKit
+                                /System/Library/PrivateFrameworks/ProxCardKit.framework/ProxCardKit
+0x287c2f000     1246432  Quagga
+                                /System/Library/PrivateFrameworks/Quagga.framework/Quagga
+0x287d6d000      147744  QuickLookSupport
+                                /System/Library/PrivateFrameworks/QuickLookSupport.framework/QuickLookSupport
+0x287e16000      251616  QuickLookUICore
+                                /System/Library/PrivateFrameworks/QuickLookUICore.framework/QuickLookUICore
+0x287e54000      577952  RESync
+                                /System/Library/PrivateFrameworks/RESync.framework/RESync
+0x287f92000      710976  RealityFusion
+                                /System/Library/PrivateFrameworks/RealityFusion.framework/RealityFusion
+0x2881da000      115872  RecapPerformanceTesting
+                                /System/Library/PrivateFrameworks/RecapPerformanceTesting.framework/RecapPerformanceTesting
+0x2885d2000      521280  RemoteManagementModel
+                                /System/Library/PrivateFrameworks/RemoteManagementModel.framework/RemoteManagementModel
+0x288652000       44384  RemoteManagementProtocol
+                                /System/Library/PrivateFrameworks/RemoteManagementProtocol.framework/RemoteManagementProtocol
+0x28865d000      344736  RemoteManagementStore
+                                /System/Library/PrivateFrameworks/RemoteManagementStore.framework/RemoteManagementStore
+0x2889cb000       25792  RevealCore
+                                /System/Library/PrivateFrameworks/RevealCore.framework/RevealCore
+0x288b64000     3622736  SDAPI
+                                /System/Library/PrivateFrameworks/SDAPI.framework/SDAPI
+0x28903a000      445120  SILManager
+                                /System/Library/PrivateFrameworks/SILManager.framework/SILManager
+0x28ab0f000      773184  SPOwner
+                                /System/Library/PrivateFrameworks/SPOwner.framework/SPOwner
+0x28abcc000      164576  SPRCore
+                                /System/Library/PrivateFrameworks/SPRCore.framework/SPRCore
+0x28ac3a000      103200  STSXPCHelperClient
+                                /System/Library/PrivateFrameworks/STSXPCHelperClient.framework/STSXPCHelperClient
+0x28ac54000      282528  SafariFoundation
+                                /System/Library/PrivateFrameworks/SafariFoundation.framework/SafariFoundation
+0x28b028000      240320  ScreenReaderCore
+                                /System/Library/PrivateFrameworks/ScreenReaderCore.framework/ScreenReaderCore
+0x28b063000      735456  ScreenReaderOutput
+                                /System/Library/PrivateFrameworks/ScreenReaderOutput.framework/ScreenReaderOutput
+0x28b63a000      279328  SearchIntrospectionKit
+                                /System/Library/PrivateFrameworks/SearchIntrospectionKit.framework/SearchIntrospectionKit
+0x28bf65000       29728  SensorKitHelper
+                                /System/Library/PrivateFrameworks/SensorKitHelper.framework/SensorKitHelper
+0x28bfb9000      597408  SentencePieceInternal
+                                /System/Library/PrivateFrameworks/SentencePieceInternal.framework/SentencePieceInternal
+0x28c10f000      162208  SessionAssertion
+                                /System/Library/PrivateFrameworks/SessionAssertion.framework/SessionAssertion
+0x28c358000      120704  SettingsFoundation
+                                /System/Library/PrivateFrameworks/SettingsFoundation.framework/SettingsFoundation
+0x28c376000      468960  SettingsHost
+                                /System/Library/PrivateFrameworks/SettingsHost.framework/SettingsHost
+0x28c781000     1983136  ShaderGraph
+                                /System/Library/PrivateFrameworks/ShaderGraph.framework/ShaderGraph
+0x28c966000      139552  SharedWebCredentials
+                                /System/Library/PrivateFrameworks/SharedWebCredentials.framework/SharedWebCredentials
+0x28cbc4000       92896  SignalCompression
+                                /System/Library/PrivateFrameworks/SignalCompression.framework/SignalCompression
+0x28cbdb000       54784  SignpostCollection
+                                /System/Library/PrivateFrameworks/SignpostCollection.framework/SignpostCollection
+0x28cbe9000        3872  SignpostMetrics
+                                /System/Library/PrivateFrameworks/SignpostMetrics.framework/SignpostMetrics
+0x28d5f9000      454816  SiriCrossDeviceArbitrationFeedback
+                                /System/Library/PrivateFrameworks/SiriCrossDeviceArbitrationFeedback.framework/SiriCrossDeviceArbitrationFeedback
+0x28f736000       37312  SiriPowerInstrumentation
+                                /System/Library/PrivateFrameworks/SiriPowerInstrumentation.framework/SiriPowerInstrumentation
+0x2916c1000        2524  SoftLinking
+                                /System/Library/PrivateFrameworks/SoftLinking.framework/SoftLinking
+0x2916c2000     2429888  SoftPosReader
+                                /System/Library/PrivateFrameworks/SoftPosReader.framework/SoftPosReader
+0x291fd2000      982848  SonicFoundation
+                                /System/Library/PrivateFrameworks/SonicFoundation.framework/SonicFoundation
+0x2920ed000      132768  SpaceAttribution
+                                /System/Library/PrivateFrameworks/SpaceAttribution.framework/SpaceAttribution
+0x29210e000       11072  SpatialAudioProfile
+                                /System/Library/PrivateFrameworks/SpatialAudioProfile.framework/SpatialAudioProfile
+0x2928a7000      218080  StatusKit
+                                /System/Library/PrivateFrameworks/StatusKit.framework/StatusKit
+0x2928de000        2824  ServiceShared
+                                /System/Library/PrivateFrameworks/Stickers.framework/Support/ServiceShared.framework/ServiceShared
+0x2929d1000      446624  StocksKit
+                                /System/Library/PrivateFrameworks/StocksKit.framework/StocksKit
+0x292b1e000      114464  StreamingZip
+                                /System/Library/PrivateFrameworks/StreamingZip.framework/StreamingZip
+0x292b5a000       37568  StudyLog
+                                /System/Library/PrivateFrameworks/StudyLog.framework/StudyLog
+0x292cd7000     3498080  SwiftMLS
+                                /System/Library/PrivateFrameworks/SwiftMLS.framework/SwiftMLS
+0x29302e000      315264  SwiftSQLite
+                                /System/Library/PrivateFrameworks/SwiftSQLite.framework/SwiftSQLite
+0x29307b000      735450  SwiftTLS
+                                /System/Library/PrivateFrameworks/SwiftTLS.framework/SwiftTLS
+0x29340c000       60288  SymptomDiagnosticReporter
+                                /System/Library/PrivateFrameworks/SymptomDiagnosticReporter.framework/SymptomDiagnosticReporter
+0x293716000       82240  SystemWake
+                                /System/Library/PrivateFrameworks/SystemWake.framework/SystemWake
+0x294339000        7456  TailspinSymbolication
+                                /System/Library/PrivateFrameworks/TailspinSymbolication.framework/TailspinSymbolication
+0x29437d000      123616  TeaSettings
+                                /System/Library/PrivateFrameworks/TeaSettings.framework/TeaSettings
+0x29443d000      684064  TelephonyBlastDoorSupport
+                                /System/Library/PrivateFrameworks/TelephonyBlastDoorSupport.framework/TelephonyBlastDoorSupport
+0x2b33a5000      615328  TextureIO
+                                /System/Library/PrivateFrameworks/TextureIO.framework/TextureIO
+0x2b3440000      244800  Tightbeam
+                                /System/Library/PrivateFrameworks/Tightbeam.framework/Tightbeam
+0x2b347d000      515392  TimeSync
+                                /System/Library/PrivateFrameworks/TimeSync.framework/TimeSync
+0x2b3529000       28928  TipKitServices
+                                /System/Library/PrivateFrameworks/TipKitServices.framework/TipKitServices
+0x2b369f000      270048  TouchRemote
+                                /System/Library/PrivateFrameworks/TouchRemote.framework/TouchRemote
+0x2b3b7e000      309376  TrustKit
+                                /System/Library/PrivateFrameworks/TrustKit.framework/TrustKit
+0x2b4796000       37696  URLFormatting
+                                /System/Library/PrivateFrameworks/URLFormatting.framework/URLFormatting
+0x2b47a0000        1080  USDKit
+                                /System/Library/PrivateFrameworks/USDKit.framework/USDKit
+0x2b47a1000        1290  USDLib_FormatLoaderProxy
+                                /System/Library/PrivateFrameworks/USDLib_FormatLoaderProxy.framework/USDLib_FormatLoaderProxy
+0x2b4d40000        8640  UpdateCycle
+                                /System/Library/PrivateFrameworks/UpdateCycle.framework/UpdateCycle
+0x2b4d66000      251680  UsageTracking
+                                /System/Library/PrivateFrameworks/UsageTracking.framework/UsageTracking
+0x2b50e5000       57184  UserNotificationsSettings
+                                /System/Library/PrivateFrameworks/UserNotificationsSettings.framework/UserNotificationsSettings
+0x2b50f8000       15584  UserSafety
+                                /System/Library/PrivateFrameworks/UserSafety.framework/UserSafety
+0x2b5104000     1029720  VDAF
+                                /System/Library/PrivateFrameworks/VDAF.framework/VDAF
+0x2b542d000        4560  VideoToolboxParavirtualizationSupport
+                                /System/Library/PrivateFrameworks/VideoToolboxParavirtualizationSupport.framework/VideoToolboxParavirtualizationSupport
+0x2b5486000      297664  VirtualGarage
+                                /System/Library/PrivateFrameworks/VirtualGarage.framework/VirtualGarage
+0x2b560e000      908000  VisualLocalization
+                                /System/Library/PrivateFrameworks/VisualLocalization.framework/VisualLocalization
+0x2b56ec000     8407104  VisualLogger
+                                /System/Library/PrivateFrameworks/VisualLogger.framework/VisualLogger
+0x2b6edf000      230464  VoiceServices
+                                /System/Library/PrivateFrameworks/VoiceServices.framework/VoiceServices
+0x2b713b000        7712  WatchdogClient
+                                /System/Library/PrivateFrameworks/WatchdogClient.framework/WatchdogClient
+0x2b7296000     1047712  WebBookmarks
+                                /System/Library/PrivateFrameworks/WebBookmarks.framework/WebBookmarks
+0x2b7396000      371200  WebBookmarksSwift
+                                /System/Library/PrivateFrameworks/WebBookmarksSwift.framework/WebBookmarksSwift
+0x2b73f1000      112608  WebContentAnalysis
+                                /System/Library/PrivateFrameworks/WebContentAnalysis.framework/WebContentAnalysis
+0x2b740d000       81952  WebContentRestrictions
+                                /System/Library/PrivateFrameworks/WebContentRestrictions.framework/WebContentRestrictions
+0x2b7422000     3318112  libANGLE-shared.dylib
+                                /System/Library/PrivateFrameworks/WebCore.framework/Frameworks/libANGLE-shared.dylib
+0x2b774d000    12085184  libwebrtc.dylib
+                                /System/Library/PrivateFrameworks/WebCore.framework/Frameworks/libwebrtc.dylib
+0x2b8357000      153536  WebPrivacy
+                                /System/Librar  y/PrivateFrameworks/WebPrivacy.framework/WebPrivacy
+0x2b8390000      313152  WebUI
+                                /System/Library/PrivateFrameworks/WebUI.framework/WebUI
+0x2b8915000      293248  WiFiVelocity
+                                /System/Library/PrivateFrameworks/WiFiVelocity.framework/WiFiVelocity
+0x2b89d7000       67776  WirelessCoexManager
+                                /System/Library/PrivateFrameworks/WirelessCoexManager.framework/WirelessCoexManager
+0x2b89e8000      257696  WirelessDiagnostics
+                                /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/WirelessDiagnostics
+0x2b8a27000      305536  WirelessProximity
+                                /System/Library/PrivateFrameworks/WirelessProximity.framework/WirelessProximity
+0x2b9353000       22784  WritingTools
+                                /System/Library/PrivateFrameworks/WritingTools.framework/WritingTools
+0x2b9359000       20576  XCTTargetBootstrap
+                                /System/Library/PrivateFrameworks/XCTTargetBootstrap.framework/XCTTargetBootstrap
+0x2b9817000      506464  XPCDistributed
+                                /System/Library/PrivateFrameworks/XPCDistributed.framework/XPCDistributed
+0x2b9910000       29184  _AppIntentsServices_AppIntents
+                                /System/Library/PrivateFrameworks/_AppIntentsServices_AppIntents.framework/_AppIntentsServices_AppIntents
+0x2b9947000       17952  _GeoServices_GeoToolbox
+                                /System/Library/PrivateFrameworks/_GeoServices_GeoToolbox.framework/_GeoServices_GeoToolbox
+0x2b9b73000      167968  caulk
+                                /System/Library/PrivateFrameworks/caulk.framework/caulk
+0x2b9b9d000      271872  iCalendar
+                                /System/Library/PrivateFrameworks/iCalendar.framework/iCalendar
+0x2ba2ee000      879648  iTunesStore
+                                /System/Library/PrivateFrameworks/iTunesStore.framework/iTunesStore
+0x2bb943000       22648  kperf
+                                /System/Library/PrivateFrameworks/kperf.framework/kperf
+0x2bb949000       37664  kperfdata
+                                /System/Library/PrivateFrameworks/kperfdata.framework/kperfdata
+0x2bb953000       93568  libEDR
+                                /System/Library/PrivateFrameworks/libEDR.framework/libEDR
+0x2bb99f000       54144  perfdata
+                                /System/Library/PrivateFrameworks/perfdata.framework/perfdata
+0x2bb9ad000      250528  vCard
+                                /System/Library/PrivateFrameworks/vCard.framework/vCard
+0x2bba0a000       14240  UIUtilities
+                                /System/Library/SubFrameworks/UIUtilities.framework/UIUtilities
+0x2bd146000       48160  libAONConnection.dylib
+                                /usr/lib/libAONConnection.dylib
+0x2bd5ac000      264180  libAWDSupport.dylib
+                                /usr/lib/libAWDSupport.dylib
+0x2bd5ed000     4590432  libAWDSupportFramework.dylib
+                                /usr/lib/libAWDSupportFramework.dylib
+0x2bda4e000       11360  libAXSafeCategoryBundle.dylib
+                                /usr/lib/libAXSafeCategoryBundle.dylib
+0x2bdaa6000      626456  libAppleArchive.dylib
+                                /usr/lib/libAppleArchive.dylib
+0x2bdc0a000      609568  libAudioDSPCore.dylib
+                                /usr/lib/libAudioDSPCore.dylib
+0x2bdcf3000       99744  libAudioStatistics.dylib
+                                /usr/lib/libAudioStatistics.dylib
+0x2bdd0c000        6528  libBASupport.dylib
+                                /usr/lib/libBASupport.dylib
+0x2be766000      214236  libCRFSuite.dylib
+                                /usr/lib/libCRFSuite.dylib
+0x2be79b000        6668  libCTGreenTeaLogger.dylib
+                                /usr/lib/libCTGreenTeaLogger.dylib
+0x2be79d000       28872  libChineseTokenizer.dylib
+                                /usr/lib/libChineseTokenizer.dylib
+0x2be7a5000       41824  libCoreEntitlements.dylib
+                                /usr/lib/libCoreEntitlements.dylib
+0x2bea0c000       32448  libIOAccessoryManager.dylib
+                                /usr/lib/libIOAccessoryManager.dylib
+0x2bea14000       34788  libIOReport.dylib
+                                /usr/lib/libIOReport.dylib
+0x2bee70000       29628  libMatch.1.dylib
+                                /usr/lib/libMatch.1.dylib
+0x2bf056000      420632  libParallelCompression.dylib
+                                /usr/lib/libParallelCompression.dylib
+0x2bf10a000       27156  libReverseProxyDevice.dylib
+                                /usr/lib/libReverseProxyDevice.dylib
+0x2bf12e000       11082  libRosetta.dylib
+                                /usr/lib/libRosetta.dylib
+0x2bf131000       93440  libSCLM.dylib
+                                /usr/lib/libSCLM.dylib
+0x2bf15b000      918232  libSMC.dylib
+                                /usr/lib/libSMC.dylib
+0x2bf274000         784  libSpatial.dylib
+                                /usr/lib/libSpatial.dylib
+0x2bf275000        7344  libSystem.B.dylib
+                                /usr/lib/libSystem.B.dylib
+0x2bf279000       37632  libTLE.dylib
+                                /usr/lib/libTLE.dylib
+0x2bf2ad000       31788  libThaiTokenizer.dylib
+                                /usr/lib/libThaiTokenizer.dylib
+0x2bf322000      192428  libWISSupport.dylib
+                                /usr/lib/libWISSupport.dylib
+0x2bf4d4000      139904  libamsupport.dylib
+                                /usr/lib/libamsupport.dylib
+0x2bf4f7000       99396  libapple_nghttp2.dylib
+                                /usr/lib/libapple_nghttp2.dylib
+0x2bf510000      586496  libate.dylib
+                                /usr/lib/libate.dylib
+0x2bf676000       70180  libbsm.0.dylib
+                                /usr/lib/libbsm.0.dylib
+0x2bf688000       49260  libbz2.1.0.dylib
+                                /usr/lib/libbz2.1.0.dylib
+0x2bf695000       19089  libchannel.dylib
+                                /usr/lib/libchannel.dylib
+0x2bf69a000        3148  libcharset.1.dylib
+                                /usr/lib/libcharset.1.dylib
+0x2bf6c8000       74760  libcmph.dylib
+                                /usr/lib/libcmph.dylib
+0x2bf6db000      871600  libcompression.dylib
+                                /usr/lib/libcompression.dylib
+0x2bf7b0000       95572  libcoretls.dylib
+                                /usr/lib/libcoretls.dylib
+0x2bf7c8000        6144  libcoretls_cfhelpers.dylib
+                                /usr/lib/libcoretls_cfhelpers.dylib
+0x2bf82c000       32120  libcupolicy.dylib
+                                /usr/lib/libcupolicy.dylib
+0x2bf834000       70908  libdns_services.dylib
+                                /usr/lib/libdns_services.dylib
+0x2bf846000       24480  libdscsym.dylib
+                                /usr/lib/libdscsym.dylib
+0x2bf84c000      122208  libedit.3.dylib
+                                /usr/lib/libedit.3.dylib
+0x2bf86a000        4128  libenergytrace.dylib
+                                /usr/lib/libenergytrace.dylib
+0x2bf86c000      109640  libexpat.1.dylib
+                                /usr/lib/libexpat.1.dylib
+0x2bfba8000        9148  libgermantok.dylib
+                                /usr/lib/libgermantok.dylib
+0x2bfbab000       21236  libheimdal-asn1.dylib
+                                /usr/lib/libheimdal-asn1.dylib
+0x2bfbb9000      116259  libhvf.dylib
+                                /usr/lib/libhvf.dylib
+0x2bff29000       29316  libiconv.2.dylib
+                                /usr/lib/libiconv.2.dylib
+0x2c00eb000        4968  liblangid.dylib
+                                /usr/lib/liblangid.dylib
+0x2c00fc000       38528  liblockdown.dylib
+                                /usr/lib/liblockdown.dylib
+0x2c0106000      124280  liblzma.5.dylib
+                                /usr/lib/liblzma.5.dylib
+0x2c0190000      384768  libmecab.dylib
+                                /usr/lib/libmecab.dylib
+0x2c01ee000     2977888  libmecabra.dylib
+                                /usr/lib/libmecabra.dylib
+0x2c04c6000       33203  libmrc.dylib
+                                /usr/lib/libmrc.dylib
+0x2c04cf000      246352  libncurses.5.4.dylib
+                                /usr/lib/libncurses.5.4.dylib
+0x2c0823000       69312  libpartition2_dynamic.dylib
+                                /usr/lib/libpartition2_dynamic.dylib
+0x2c0869000       55104  libperfcheck.dylib
+                                /usr/lib/libperfcheck.dylib
+0x2c087e000       86464  libprequelite.dylib
+                                /usr/lib/libprequelite.dylib
+0x2c0894000      394908  libprotobuf.dylib
+                                /usr/lib/libprotobuf.dylib
+0x2c08f5000        4104  librealtime_safety.dylib
+                                /usr/lib/librealtime_safety.dylib
+0x2c08f7000      115004  libresolv.9.dylib
+                                /usr/lib/libresolv.9.dylib
+0x2c0914000        8448  libsandbox.1.dylib
+                                /usr/lib/libsandbox.1.dylib
+0x2c0946000       24256  libspindump.dylib
+                                /usr/lib/libspindump.dylib
+0x2c094c000      212992  libswiftPrespecialized.dylib
+                                /usr/lib/libswiftPrespecialized.dylib
+0x2c0980000       23296  libsysdiagnose.dylib
+                                /usr/lib/libsysdiagnose.dylib
+0x2c0994000      209608  libtidy.A.dylib
+                                /usr/lib/libtidy.A.dylib
+0x2c09d0000       14172  libutil.dylib
+                                /usr/lib/libutil.dylib
+0x2c09ea000      175104  libxslt.1.dylib
+                                /usr/lib/libxslt.1.dylib
+0x2c0a15000       60760  libz.1.dylib
+                                /usr/lib/libz.1.dylib
+0x2c0a77000      127194  libswiftAppleArchive.dylib
+                                /usr/lib/swift/libswiftAppleArchive.dylib
+0x2c0a98000       15040  libswiftCallKit.dylib
+                                /usr/lib/swift/libswiftCallKit.dylib
+0x2c0a9d000       28006  libswiftCompression.dylib
+                                /usr/lib/swift/libswiftCompression.dylib
+0x2c0aa5000       31847  libswiftCoreAudio.dylib
+                                /usr/lib/swift/libswiftCoreAudio.dylib
+0x2c0aae000         768  libswiftCoreGraphics.dylib
+                                /usr/lib/swift/libswiftCoreGraphics.dylib
+0x2c0aaf000        1744  libswiftCoreImage.dylib
+                                /usr/lib/swift/libswiftCoreImage.dylib
+0x2c0ab0000       36927  libswiftCoreMIDI.dylib
+                                /usr/lib/swift/libswiftCoreMIDI.dylib
+0x2c0abd000        9912  libswiftDarwin.dylib
+                                /usr/lib/swift/libswiftDarwin.dylib
+0x2c0ac1000      398160  libswiftDemangle.dylib
+                                /usr/lib/swift/libswiftDemangle.dylib
+0x2c0b23000       73652  libswiftDistributed.dylib
+                                /usr/lib/swift/libswiftDistributed.dylib
+0x2c0b35000        1602  libswiftExtensionFoundation.dylib
+                                /usr/lib/swift/libswiftExtensionFoundation.dylib
+0x2c0b38000         912  libswiftFoundation.dylib
+                                /usr/lib/swift/libswiftFoundation.dylib
+0x2c0b39000        3812  libswiftGLKit.dylib
+                                /usr/lib/swift/libswiftGLKit.dylib
+0x2c0b3d000       45632  libswiftIntents.dylib
+                                /usr/lib/swift/libswiftIntents.dylib
+0x2c0b49000       29088  libswiftMLCompute.dylib
+                                /usr/lib/swift/libswiftMLCompute.dylib
+0x2c0b51000       31552  libswiftMapKit.dylib
+                                /usr/lib/swift/libswiftMapKit.dylib
+0x2c0b5a000       43872  libswiftMetal.dylib
+                                /usr/lib/swift/libswiftMetal.dylib
+0x2c0b65000        4832  libswiftMetalKit.dylib
+                                /usr/lib/swift/libswiftMetalKit.dylib
+0x2c0b67000       13280  libswiftModelIO.dylib
+                                /usr/lib/swift/libswiftModelIO.dylib
+0x2c0b6c000        6944  libswiftOSLog.dylib
+                                /usr/lib/swift/libswiftOSLog.dylib
+0x2c0b81000        7712  libswiftQuartzCore.dylib
+                                /usr/lib/swift/libswiftQuartzCore.dylib
+0x2c0b83000       14688  libswiftSceneKit.dylib
+                                /usr/lib/swift/libswiftSceneKit.dylib
+0x2c0b87000      485168  libswiftSpatial.dylib
+                                /usr/lib/swift/libswiftSpatial.dylib
+0x2c0c01000      137936  libswiftSwiftOnoneSupport.dylib
+                                /usr/lib/swift/libswiftSwiftOnoneSupport.dylib
+0x2c0c23000       80168  libswiftSynchronization.dylib
+                                /usr/lib/swift/libswiftSynchronization.dylib
+0x2c0c39000       42112  libswiftVideoToolbox.dylib
+                                /usr/lib/swift/libswiftVideoToolbox.dylib
+0x2c0c47000        1562  libswift_Builtin_float.dylib
+                                /usr/lib/swift/libswift_Builtin_float.dylib
+0x2c0c48000        3724  libswift_DarwinFoundation2.dylib
+                                /usr/lib/swift/libswift_DarwinFoundation2.dylib
+0x2c0c49000        1880  libswift_DarwinFoundation3.dylib
+                                /usr/lib/swift/libswift_DarwinFoundation3.dylib
+0x2c0c4d000         891  libswift_errno.dylib
+                                /usr/lib/swift/libswift_errno.dylib
+0x2c0c52000       96604  libswiftsimd.dylib
+                                /usr/lib/swift/libswiftsimd.dylib
+0x2c0c6a000         899  libswiftsys_time.dylib
+                                /usr/lib/swift/libswiftsys_time.dylib
+0x2c0c6c000       20608  libcache.dylib
+                                /usr/lib/system/libcache.dylib
+0x2c0c72000       54104  libcommonCrypto.dylib
+                                /usr/lib/system/libcommonCrypto.dylib
+0x2c0c80000       14368  libcompiler_rt.dylib
+                                /usr/lib/system/libcompiler_rt.dylib
+0x2c0c84000       42736  libcopyfile.dylib
+                                /usr/lib/system/libcopyfile.dylib
+0x2c0de9000       13624  libmacho.dylib
+                                /usr/lib/system/libmacho.dylib
+0x2c0ded000       11168  libremovefile.dylib
+                                /usr/lib/system/libremovefile.dylib
+0x2c0df0000       12769  libsystem_blocks.dylib
+                                /usr/lib/system/libsystem_blocks.dylib
+0x2c0df4000       18164  libsystem_collections.dylib
+                                /usr/lib/system/libsystem_collections.dylib
+0x2c0df9000       17576  libsystem_configuration.dylib
+                                /usr/lib/system/libsystem_configuration.dylib
+0x2c0dfe000       40588  libsystem_darwin.dylib
+                                /usr/lib/system/libsystem_darwin.dylib
+0x2c0e08000       14604  libsystem_darwindirectory.dylib
+                                /usr/lib/system/libsystem_darwindirectory.dylib
+0x2c0e0c000       36320  libsystem_dnssd.dylib
+                                /usr/lib/system/libsystem_dnssd.dylib
+0x2c0e15000       41820  libsystem_eligibility.dylib
+                                /usr/lib/system/libsystem_eligibility.dylib
+0x2c0e20000      251784  libsystem_m.dylib
+                                /usr/lib/system/libsystem_m.dylib
+0x2c0e5e000       50871  libsystem_notify.dylib
+                                /usr/lib/system/libsystem_notify.dylib
+0x2c0e6b000       33844  libsystem_platform.dylib
+                                /usr/lib/system/libsystem_platform.dylib
+0x2c0e74000       20440  libsystem_sandbox.dylib
+                                /usr/lib/system/libsystem_sandbox.dylib
+0x2c0e79000       31100  libsystem_sanitizers.dylib
+                                /usr/lib/system/libsystem_sanitizers.dylib
+0x2c0e81000        3000  libsystem_trial.dylib
+                                /usr/lib/system/libsystem_trial.dylib
+0x2c109c000    28047584  libusd_ms.dylib
+                                /usr/lib/usd/libusd_ms.dylib
+0x2c5c1e000       21696  MPSHost
+                                /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSHost.framework/MPSHost
+0x2c5cf9000        3584  AccessorySensorManagerDefines_Private
+                                /System/Library/PrivateFrameworks/AccessorySensorManagerDefines_Private.framework/AccessorySensorManagerDefines_Private
+0x2c5e4b000       72032  AppIntentsTypeSupport
+                                /System/Library/PrivateFrameworks/AppIntentsTypeSupport.framework/AppIntentsTypeSupport
+0x2c60bf000       46944  CarPlayDisplayUtils
+                                /System/Library/PrivateFrameworks/CarPlayDisplayUtils.framework/CarPlayDisplayUtils
+0x2c60ce000       59776  CloudTelemetryShared.dylib
+                                /System/Library/PrivateFrameworks/CloudTelemetryShared.dylib
+0x2c6263000      410260  CoreTransparency
+                                /System/Library/PrivateFrameworks/CoreTransparency.framework/CoreTransparency
+0x2c66f8000       49472  GameControllerIO
+                                /System/Library/PrivateFrameworks/GameControllerIO.framework/GameControllerIO
+0x2c6a58000      177920  ImageCaptureDevices
+                                /System/Library/PrivateFrameworks/ImageCaptureDevices.framework/ImageCaptureDevices
+0x2c6aaf000       94880  MLModelAsset
+                                /System/Library/PrivateFrameworks/MLModelAsset.framework/MLModelAsset
+0x2c6ae8000       48640  ManagedBackgroundAssetsHelperFetching
+                                /System/Library/PrivateFrameworks/ManagedBackgroundAssetsHelperFetching.framework/ManagedBackgroundAssetsHelperFetching
+0x2c6b0f000      302080  ManagedBackgroundAssetsXPC
+                                /System/Library/PrivateFrameworks/ManagedBackgroundAssetsXPC.framework/ManagedBackgroundAssetsXPC
+0x2c781e000       91200  SESShared
+                                /System/Library/PrivateFrameworks/SESShared.framework/SESShared
+0x2c9117000      517952  USDObjCKit
+                                /System/Library/PrivateFrameworks/USDObjCKit.framework/USDObjCKit
+0x2c9538000       92942  libswiftCoreAudio_Private.dylib
+                                /usr/lib/swift/libswiftCoreAudio_Private.dylib
+0xe451c0000      360448  AppleParavirtGPUMetalIOGPUFamily
+                                /System/Library/Extensions/AppleParavirtGPUMetalIOGPUFamily.bundle/AppleParavirtGPUMetalIOGPUFamily
+0xe69640000       49152  libobjc-trampolines.dylib
+                                /System/Cryptexes/OS/usr/lib/libobjc-trampolines.dylib
