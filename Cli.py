@@ -127,6 +127,10 @@ def main() -> int:
     p.add_argument("--host", help="frida-server host, e.g. 192.168.64.6")
     p.add_argument("-f", "--spawn", metavar="ID", help="spawn this bundle id instead of attaching")
     p.add_argument("--list", action="store_true", help="list processes and exit")
+    p.add_argument("--addrs", action="store_true", help="function survey")
+    p.add_argument("--testfd", action="store_true", help="test file descriptor functions")
+    p.add_argument("--survey", action="store_true", help="function survey")
+    p.add_argument("--dis", action="store_true", help="disassemble functions")
     p.add_argument("--meta", action="store_true", help="dump process metadata and exit")
     p.add_argument("--modules", action="store_true", help="dump module map and exit")
     p.add_argument("--category", action="append", help="filter (filesystem, network, security, objc)")
@@ -167,6 +171,27 @@ def main() -> int:
     script.on("destroyed", lambda: done.set())
     script.load()
 
+    if args.addrs:
+        names=['open','open$NOCANCEL','__open','__open_nocancel','close','close$NOCANCEL','__close_nocancel']
+        print(json.dumps(script.exports_sync.addrs(names), indent=2))
+        return 0
+
+    if args.dis:
+        names=['open','open$NOCANCEL','__open','__open_nocancel','close','close$NOCANCEL','__close_nocancel']
+        print(json.dumps(script.exports_sync.dis(names), indent=2))
+        return 0
+
+    if args.testfd:
+        fd=1
+        print(json.dumps(script.exports_sync.testfd(fd), indent=2))
+        return 0
+
+    if args.survey:
+        # needles = ['open', 'read', 'write', 'close', 'stat', 'dir', 'attrlist'];
+        needles = ['read'];
+        print(json.dumps(script.exports_sync.survey(needles), indent=2))
+        return 0
+    
     if args.meta:
         print(json.dumps(script.exports_sync.meta(), indent=2))
         return 0

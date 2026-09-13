@@ -1,8 +1,8 @@
-0x104954000       16384  MobileSafari
+0x1006b8000       16384  MobileSafari
                                 /private/var/containers/Bundle/Application/8A6591E2-3E4B-4104-AD57-AD8C4F73560E/MobileSafari.app/MobileSafari
-0x1049f0000       32768  systemhook.dylib
+0x100754000       32768  systemhook.dylib
                                 /cores/systemhook.dylib
-0x104a18000       32768  TweakLoader.dylib
+0x10077c000       32768  TweakLoader.dylib
                                 /private/preboot/BF9DB23529BDA1815A95AD6B18C3C5E0ED640C513374D443340F3E81F2F0E16535BE82A6CD1DA0ED745D2EFBE2321D2A/jb-vphone/procursus/usr/lib/TweakLoader.dylib
 0x19c02c000      332928  libobjc.A.dylib
                                 /usr/lib/libobjc.A.dylib
@@ -224,6 +224,8 @@
                                 /System/Library/PrivateFrameworks/BoardServices.framework/BoardServices
 0x1b7abd000     1598288  ColorSync
                                 /System/Library/Frameworks/ColorSync.framework/ColorSync
+0x1b7c44000     9884872  AudioCodecs
+                                /System/Library/Frameworks/AudioToolbox.framework/AudioCodecs
 0x1b85b2000     4551488  CoreMotion
                                 /System/Library/Frameworks/CoreMotion.framework/CoreMotion
 0x1b8a0a000     2912960  CoreLocation
@@ -452,8 +454,6 @@
                                 /System/Library/Frameworks/StoreKit.framework/StoreKit
 0x1d0953000      144448  Accessibility
                                 /System/Library/Frameworks/Accessibility.framework/Accessibility
-0x1d0977000     1083264  libnwswifttls.dylib
-                                /usr/lib/libnwswifttls.dylib
 0x1d0a80000    14881856  VectorKit
                                 /System/Library/PrivateFrameworks/VectorKit.framework/VectorKit
 0x1d18b2000     1277120  PhotosFormats
@@ -718,6 +718,8 @@
                                 /System/Library/PrivateFrameworks/BiomePubSub.framework/BiomePubSub
 0x1e7a83000     5481600  ToolKit
                                 /System/Library/PrivateFrameworks/ToolKit.framework/ToolKit
+0x1e8021000      886336  AudioDSPGraph
+                                /System/Library/PrivateFrameworks/AudioDSPGraph.framework/AudioDSPGraph
 0x1e80fa000      264192  BiomeStorage
                                 /System/Library/PrivateFrameworks/BiomeStorage.framework/BiomeStorage
 0x1e813b000      569056  CameraColorProcessing
@@ -818,6 +820,8 @@
                                 /System/Library/PrivateFrameworks/PegasusConfiguration.framework/PegasusConfiguration
 0x1f89db000      518688  ToneLibrary
                                 /System/Library/PrivateFrameworks/ToneLibrary.framework/ToneLibrary
+0x1f8bb4000       57568  HearingCore
+                                /System/Library/PrivateFrameworks/HearingCore.framework/HearingCore
 0x1f8bc3000      697696  ManagedAppDistribution
                                 /System/Library/Frameworks/ManagedAppDistribution.framework/ManagedAppDistribution
 0x1f8c6e000      856384  MarketplaceKit
@@ -854,6 +858,8 @@
                                 /System/Library/PrivateFrameworks/CloudPhotoLibrary.framework/CloudPhotoLibrary
 0x1fd4e3000     1455840  Anvil
                                 /System/Library/PrivateFrameworks/Anvil.framework/Anvil
+0x1fd83c000     6480128  libAudioDSP.dylib
+                                /System/Library/Frameworks/AudioToolbox.framework/libAudioDSP.dylib
 0x1fde6b000      156072  libAudioToolboxUtility.dylib
                                 /usr/lib/libAudioToolboxUtility.dylib
 0x1fde92000     6968064  CoreAudio
@@ -1252,6 +1258,8 @@
                                 /System/Library/Frameworks/AddressBook.framework/AddressBook
 0x259254000       19520  AppTrackingTransparency
                                 /System/Library/Frameworks/AppTrackingTransparency.framework/AppTrackingTransparency
+0x2594ab000     1153340  libEmbeddedSystemAUs.dylib
+                                /System/Library/Frameworks/AudioToolbox.framework/libEmbeddedSystemAUs.dylib
 0x25962d000      546944  BackgroundAssets
                                 /System/Library/Frameworks/BackgroundAssets.framework/BackgroundAssets
 0x2596b3000       22208  BrowserEngineCore
@@ -1848,6 +1856,8 @@
                                 /System/Library/PrivateFrameworks/PersonaKit.framework/PersonaKit
 0x284a68000       64352  PersonaUI
                                 /System/Library/PrivateFrameworks/PersonaUI.framework/PersonaUI
+0x284a78000      134528  PersonalAudio
+                                /System/Library/PrivateFrameworks/PersonalAudio.framework/PersonalAudio
 0x284b55000        4320  PhoneNumbers
                                 /System/Library/PrivateFrameworks/PhoneNumbers.framework/PhoneNumbers
 0x284bf5000      218656  PhotosImagingFoundation
@@ -2033,7 +2043,7 @@
 0x2b774d000    12085184  libwebrtc.dylib
                                 /System/Library/PrivateFrameworks/WebCore.framework/Frameworks/libwebrtc.dylib
 0x2b8357000      153536  WebPrivacy
-                                /System/Librar  y/PrivateFrameworks/WebPrivacy.framework/WebPrivacy
+                                /System/Library/PrivateFrameworks/WebPrivacy.framework/WebPrivacy
 0x2b8390000      313152  WebUI
                                 /System/Library/PrivateFrameworks/WebUI.framework/WebUI
 0x2b8915000      293248  WiFiVelocity
@@ -2338,7 +2348,7 @@
                                 /System/Library/PrivateFrameworks/USDObjCKit.framework/USDObjCKit
 0x2c9538000       92942  libswiftCoreAudio_Private.dylib
                                 /usr/lib/swift/libswiftCoreAudio_Private.dylib
-0xe451c0000      360448  AppleParavirtGPUMetalIOGPUFamily
+0x8d73c0000      360448  AppleParavirtGPUMetalIOGPUFamily
                                 /System/Library/Extensions/AppleParavirtGPUMetalIOGPUFamily.bundle/AppleParavirtGPUMetalIOGPUFamily
-0xe69640000       49152  libobjc-trampolines.dylib
+0x8fb7a0000       49152  libobjc-trampolines.dylib
                                 /System/Cryptexes/OS/usr/lib/libobjc-trampolines.dylib
